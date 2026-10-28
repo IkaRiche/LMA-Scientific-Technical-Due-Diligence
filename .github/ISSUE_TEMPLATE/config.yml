@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Research and evaluation enquiries
+    url: https://stasysos.eu/
+    about: Contact the STASYS team for controlled scientific or commercial diligence.
+  - name: Sensitive disclosure
+    url: https://stasysos.eu/
+    about: Do not disclose nonpublic source materials or sensitive details in GitHub issues.

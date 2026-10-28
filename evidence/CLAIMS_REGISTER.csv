@@ -1,0 +1,23 @@
+claim_id,claim,status,scope,source_id,qualification
+LMA-01,LMA studies typed structured computational objects,FORMAL_DEFINITION,finite formal reference,LMA,not a proof of universal novelty
+LMA-02,T1-T3 are existence results inside an explicitly finite model,PROVED_IN_FINITE_MODEL,specified finite mathematical model,LMA,canonical proofs are not included; independent review pending
+LMA-03,General computational superiority/irreducibility is not established,NOT_ESTABLISHED,all platforms and known models,LMA,finite systems admit conventional encodings
+TMC-01,Coupled Conduct and Experience yielded a scoped joint behavior in specified controls,PASS_SCOPED,bounded software fixtures,TMC,fair full-information conventional comparator had parity
+TMC-02,STM32H723 TMC demonstration exists,OBSERVED_IN_SCOPE,laboratory MCU tests,TMC,no flight or production qualification
+TMC-03,Two-print hardware execution data fully independently adjudicated,PENDING_REVIEW,operator reported cold tests,TMC,raw original data scientific adjudication pending
+TMC-04,TMC has no direct execution authority,ARCHITECTURAL_BOUNDARY,tested configurations,TMC,no claim about full platform control
+VISION-01,Abstract local Morphic Vision input with degradation and replay was tested,PASS_SCOPED,digital/host simulation,VISION,not a physical camera
+VISION-02,Read-only visual aggregation is non-authoritative in the tested implementation,PASS_SCOPED,digital/host diagnostics,VISION,does not establish global perception performance
+VISION-03,A field-qualified physical Morphic Vision product exists,NOT_ESTABLISHED,camera/real-world perception,VISION,no sensor evidence in cited report
+INTEGRATION-01,TMC with Morphic Vision is a qualified integrated system,NOT_ESTABLISHED,end-to-end onboard system,TMC+VISION,joint evidence and real inputs not yet qualified
+GV1-01,Original Veil digital twin includes accepted 5- and 12-node research results,PASS_SCOPED,selected digital configurations,VEIL_ORIGINAL,not a physical multi-node deployment
+GV1-02,Original Veil full stack reached a bounded 128-node digital composition,PASS_SCOPED,simulation only,VEIL_ORIGINAL,not physical scaling or universal resilience
+GV1-03,Heterogeneity and placement affect observed modeled outcomes,PASS_SCOPED,selected digital geometry and profiles,VEIL_ORIGINAL,model and fixture dependent
+GV2-01,Relational Guardian Veil produced scoped digital causal protective results,PASS_SCOPED,frozen digital conditions,VEIL_RELATIONAL,not general physical protection
+GV2-02,Organism-owned functional recruitment and higher-order HOLO composition have scoped evidence,PASS_SCOPED,frozen digital mechanism studies,VEIL_RELATIONAL,not generalized field behavior
+GV2-03,LMIO-only heterogeneous functional closure was observed in its modeled conditions,PASS_SCOPED,frozen digital/physical-model fixture,VEIL_RELATIONAL,not real-world sensor or deployment proof
+GV-INT-01,Physical two- and three-node interactions were recorded separately,PASS_SCOPED,specified F411/H723 hardware configurations,FULL_STACK,not physical proof of full protective Veil
+GV-FAST-01,A validated effective countermeasure against named high-speed threats exists,NOT_ESTABLISHED,physical operational environment,VEIL_ORIGINAL+VEIL_RELATIONAL,no field effectiveness supported
+DRC-01,External DRC command-gate physically blocks denied frames in specified MCU setups,PASS_SCOPED,MCU command-path tests,DRC,not independent vehicle safety certification
+BUS-01,First product has been selected,OPEN_DECISION,joint commercialization choice,STASYSOS,"no product, pricing or investors committed"
+BUS-02,Prospective customers have been described by investors,FOUNDER_REPORTED,commercial lead hypothesis,STASYSOS,buyer identity/commitment not independently evidenced

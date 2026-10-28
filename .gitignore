@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.env.*
+*.pem
+*.key
+*.bin
+*.elf
+*.zip
+.DS_Store
+private/
+restricted/
+raw-evidence/
