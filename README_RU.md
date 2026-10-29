@@ -3,7 +3,7 @@
 
 [![Documentation integrity](https://github.com/IkaRiche/LMA-Scientific-Technical-Due-Diligence/actions/workflows/validate.yml/badge.svg)](https://github.com/IkaRiche/LMA-Scientific-Technical-Due-Diligence/actions/workflows/validate.yml)
 
-[English](README.md) · [STASYS](https://stasysos.eu/) · [Реестр доказательств](evidence/CLAIMS_REGISTER.csv) · [Протокол проверки](docs/05_REVIEW_PROTOCOL.md)
+[English](README.md) · [STASYS](https://stasysos.eu/) · [Реестр доказательств](evidence/CLAIMS_REGISTER.csv) · [Протокол проверки](docs/05_REVIEW_PROTOCOL.md) · [Три механизма для проверки](docs/11_FOCUSED_AUTONOMY_REVIEW.md)
 
 ---
 
@@ -25,6 +25,12 @@ LMA исследует вычисления, в которых структур�
 | **DRC / SRC** | Независимая проверка команд и восстановление | Аппаратные испытания в ограниченных конфигурациях |
 
 **TMC + Morphic Vision и Guardian Veil — направления текущего интереса потенциальных партнёров.** Их интеграция и коммерческий продукт ещё не выбраны. Физическая эффективность против конкретных высокоскоростных угроз не установлена.
+
+## Специальная техническая проверка (3–4 ноября 2026)
+
+Предмет интереса потенциальных рецензентов: **децентрализованное взаимодействие**, **межузловая координация без пересылки координат** и **ведение миссии до терминального условия**. Это три разных утверждения с разной доказательной базой. См. [проверку механизмов](docs/11_FOCUSED_AUTONOMY_REVIEW.md) и [контрольные вопросы](docs/12_REVIEWER_CHALLENGES.md).
+
+Не доказаны: универсальный расчёт точки встречи только через LMIO, отсутствие любых пространственных измерений, единая работающая физическая система Вуаль+TMC и эксплуатационная готовность.
 
 ## Как читать
 

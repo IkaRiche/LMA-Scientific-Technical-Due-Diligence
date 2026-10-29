@@ -9,6 +9,10 @@ This repository is a public **index of claims, provenance and review conditions*
 | Investment | ~15 min | [Program overview](01_EXECUTIVE_OVERVIEW.md) → [Opportunity selection](06_PRODUCT_SELECTION.md) | Identify candidate customer problems without preselecting a product |
 | Evidence / IP | ~15 min | [Claims register](../evidence/CLAIMS_REGISTER.csv) → [Source pins](../evidence/INDEX.md) → [Disclosure boundary](07_DISCLOSURE_BOUNDARY.md) | Determine what is intentionally withheld |
 
+## Focused engineering review — November 2026
+
+The reviewers' stated interests are (1) local decentralized decisions, (2) interaction/meeting without coordinate transfer **in the peer channel**, and (3) persistent terminal mission conduct. Begin with the [scoped claim screen](11_FOCUSED_AUTONOMY_REVIEW.md), then the [challenge cards](12_REVIEWER_CHALLENGES.md) and [focused 75-minute protocol](05_REVIEW_PROTOCOL.md). A general coordinate-free meeting-point solver is **not established** by the accepted peer-communication experiment.
+
 ## Scientific evaluation sequence
 
 **Formal terms → exact claim → immutable source → method and controls → witnessed result → stated limits → independent verdict.**

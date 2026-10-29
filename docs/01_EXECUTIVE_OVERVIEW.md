@@ -18,6 +18,12 @@ The program has produced multiple *distinct* research and engineering implementa
 | **DRC/SRC** | Can a small independent boundary reject invalid commands and preserve bounded recovery? | Hardware-backed command-gate results |
 | **Morphic Market / Morphic AI / LMCO** | Temporal structure; acquired causal behavior; organism-based cryptographic hypotheses | Separate research lines, not ready-made commercial products |
 
+## Focused external review request
+
+The immediate interest is in **decentralized organism-owned coordination**, **low-information peer communication and meeting behavior**, and **TMC's terminal mission-continuation computation**. These topics must be tested as separate claims. In particular, the accepted peer-message restriction does not prove universal coordinate-free rendezvous; synthetic civilian meeting studies do not qualify native Veil; and a successful TMC bench decision trace does not establish flight or end-to-end execution.
+
+See the [focused claim screen](11_FOCUSED_AUTONOMY_REVIEW.md) and [challenge cards](12_REVIEWER_CHALLENGES.md).
+
 ## Why an investor might care
 
 The potential opportunity is a **portfolio of differentiable technical mechanisms**, each of which can be subjected to a bounded industrial qualification program. Plausible customer segments include robotics integrators, embedded-system OEMs, safety-critical software vendors and specialist autonomous-platform manufacturers. These are **market hypotheses**, not validated purchase orders.

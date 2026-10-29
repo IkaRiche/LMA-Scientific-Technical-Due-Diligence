@@ -2,7 +2,7 @@
 ### Lomidze Morphological Algebra — Scientific & Technical Due Diligence
 
 [![Documentation integrity](https://github.com/IkaRiche/LMA-Scientific-Technical-Due-Diligence/actions/workflows/validate.yml/badge.svg)](https://github.com/IkaRiche/LMA-Scientific-Technical-Due-Diligence/actions/workflows/validate.yml)
-[Research website](https://stasysos.eu/) · [Русская версия](README_RU.md) · [Reviewer guide](docs/00_START_HERE.md) · [Evidence register](evidence/CLAIMS_REGISTER.csv)
+[Research website](https://stasysos.eu/) · [Русская версия](README_RU.md) · [Reviewer guide](docs/00_START_HERE.md) · [Focused autonomy review](docs/11_FOCUSED_AUTONOMY_REVIEW.md) · [Evidence register](evidence/CLAIMS_REGISTER.csv)
 
 ---
 
@@ -49,6 +49,12 @@ flowchart TB
 ```
 
 The two Guardian Veil programs are **distinct research lines**. The original digital-twin work contributes heterogeneity, geometry and system-level simulation; the relational line investigates local organism state, physiological interaction and higher-order composition. Their evidence must not be combined into a physical-system claim.
+
+## Current reviewer focus (3–4 November 2026)
+
+The prospective reviewers are interested in three **separate** mechanisms: decentralized local coordination, low-information inter-node interaction / meeting behavior, and bounded terminal mission conduct. See the [focused claim screen](docs/11_FOCUSED_AUTONOMY_REVIEW.md) and [review challenge cards](docs/12_REVIEWER_CHALLENGES.md).
+
+The current evidence does **not** establish general coordinate-free meeting-point computation, no raw data at all layers, flight-ready terminal autonomy, or an integrated Veil–TMC product. The distinction between a tested peer-channel restriction and a generalized rendezvous system is material.
 
 ## Where to begin
 
