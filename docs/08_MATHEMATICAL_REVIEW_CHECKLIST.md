@@ -14,6 +14,10 @@ Assess whether specific LMA mathematical claims are well-defined, internally cor
 6. **Engineering relevance** — determine whether differences yield a useful compositional contract or measurable cost/assurance benefit; do not assume superiority.
 7. **Verdict** — assign PASS, FAIL or INCONCLUSIVE to *each* scoped claim. Record limitations and what evidence would change the verdict.
 
+## Additional Morphic AI mechanism challenge
+
+Distinguish finite-model mathematical theorems from **empirical acquired-shared-morphology ablation**. Review whether a later native function depends on an earned shared constituent, whether an early intervention differs causally from a post-transfer intervention, and whether a conventional typed-graph/FSM carries all the same information. In the reported fixed-edge structural control, 1,536 scored ticks matched the FSM comparator: this negative result must be preserved. The meaningful next question is task-relevant *joint* native function under changed goals and earned history, with a fair baseline—not a theorem of general non-reducibility. See [Morphic AI review](13_MORPHIC_AI_REVIEW.md).
+
 ## Required recorded evidence
 
 | Item | Reviewer record |
