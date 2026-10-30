@@ -11,12 +11,17 @@ The program has produced multiple *distinct* research and engineering implementa
 | Track | Research/engineering question | Current evidence tier |
 |---|---|---|
 | **LMA** | Can typed composition and morphic structure be made into explicit formal semantics? | Finite-model theorems; broader algebra not fully proven |
+| **Morphic AI** | Can independent locally homeostatic Prints acquire shared operative morphology and use its retained history for later native function? | Three-owner native software engineering; stage-sensitive shared-structure causal intervention; joint organism decision remains unqualified |
 | **TMC** | Can bounded mission-conduct continuations depend on coupled structural and acquired-history components? | Scoped software science + MCU demonstrations; further validation required |
 | **Morphic Vision** | Can a local perception channel be admitted and reproduced without covert global control? | Abstract/simulation-level tests only in referenced report |
 | **Guardian Veil (original)** | Can heterogeneous autonomous nodes form protective spatial patterns via local interaction? | Digital-twin and bounded multinode simulation evidence |
 | **Guardian Veil (relational)** | Can organism-owned needs and LMIO-like peer expression drive limited functional composition? | Scoped digital causal and higher-order evidence |
 | **DRC/SRC** | Can a small independent boundary reject invalid commands and preserve bounded recovery? | Hardware-backed command-gate results |
-| **Morphic Market / Morphic AI / LMCO** | Temporal structure; acquired causal behavior; organism-based cryptographic hypotheses | Separate research lines, not ready-made commercial products |
+| **Morphic Market / LMCO** | Temporal structure and organism-based cryptographic hypotheses | Separate research lines; no ready-made commercial products |
+
+## Scientific update: acquired morphology is intrinsic memory
+
+The active Morphic AI program treats **Morphic Memory as acquired, causally operative morphology**, rather than a separate RAM service or a post-hoc data store. By 30 October, accepted integrated source evidence covers continuous three-Print development, acquired local functional retention, and a **scoped prospective causal effect of an acquired shared constituent** on later native functional acquisition. A changed task also triggered native unmet need but **not** further useful reconfiguration in the tested configuration. An ordinary typed-graph/FSM comparator matched tested structural contact histories on a finite benchmark. The useful joint task, endogenous future restructuring and physical return loop remain unproved. See [focused Morphic AI review](13_MORPHIC_AI_REVIEW.md).
 
 ## Focused external review request
 
