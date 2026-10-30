@@ -50,7 +50,7 @@ This package does **not** reproduce the canonical proof scripts or full witness 
 
 The current Morphic AI ontology distinguishes a Print's own retained acquired morphology from **Tissue-level acquired shared operative structure**, which can have stage-dependent effects on future native function. The reported early/late shared-constituent cut is a scoped empirical causal intervention, **not** an additional mathematical theorem or a new formal proof of novel computational complexity. See [Morphic AI review](13_MORPHIC_AI_REVIEW.md).
 
-**Historical comparator note:** an equal-information conventional comparator matched the tested TMC behavior in a bounded fixture. Therefore, no general computational irreducibility or superiority claim is warranted.
+No general computational irreducibility or superiority claim is warranted by either comparator or by the finite-model theorems.
 
 ## Reviewer acceptance criteria
 
