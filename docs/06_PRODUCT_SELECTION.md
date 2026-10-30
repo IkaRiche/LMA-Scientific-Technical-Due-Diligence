@@ -1,6 +1,6 @@
 # 06 — Joint selection of a commercialization opportunity
 
-**Decision status: OPEN.** No product has been selected by the founder. The reviewers' present interests are distributed local coordination, coordinate-restricted communication / meeting behavior, and terminal mission conduct. These are **evidence questions**, not three already validated products. TMC + Morphic Vision remains a separate possible future integration, not the focus already selected for investment.
+**Decision status: OPEN.** A scoped Morphic AI structural-causality result is a scientific input, not a selected product or demonstrated commercial demand. No product has been selected by the founder. The reviewers' present interests are distributed local coordination, coordinate-restricted communication / meeting behavior, and terminal mission conduct. These are **evidence questions**, not three already validated products. TMC + Morphic Vision remains a separate possible future integration, not the focus already selected for investment.
 
 ## Candidate directions (not a ranking)
 
@@ -11,6 +11,7 @@
 | Guardian Veil distributed/low-information interaction | Scoped digital simulation and evidence-review service | Independent proof of the stated peer-channel and local decision claims, limitations of simulation host, actual buyer need |
 | Civilian local-feedback rendezvous research | Separate exploratory R&D study, not a ready embedded product | Demonstrate a native mechanism and real sensor/physical constraints; retain negative speed/geometry findings |
 | DRC/SRC | Embedded assurance evaluation under a defined platform contract | Platform-specific functional and reliability qualification |
+| Morphic AI native Tissue / acquired structural state | Paid independent mechanism-and-resource feasibility assessment, only after validated industrial deficiency | Joint useful function, matched conventional control, source-controlled causality and target resource bounds; not a general AI product yet |
 | Other LMA-derived research | Paid discovery / R&D option | Mechanism review and independently demonstrated customer deficit |
 
 ## Suggested joint evaluation gate (4–6 weeks, adjustable)
