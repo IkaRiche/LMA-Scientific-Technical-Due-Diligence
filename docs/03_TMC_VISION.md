@@ -1,44 +1,48 @@
-# 03 — TMC and Morphic Vision: separate evidence, candidate integration
+# 03 — TMC mission conduct and the separate Morphic Vision candidate
 
-## TMC: Terminal Mission Core
+## TMC: active mission conduct, not a command gate
 
-TMC is being developed as an active, bounded onboard mission-conduct computation. Its purpose is not simply to issue ALLOW/BLOCK decisions. Within agreed goals and permitted means, it consumes typed context and verified outcomes, retains mission-related history, and produces **non-actuating mission intents**. An external authority/executor remains responsible for action approval and physical control.
+Terminal Mission Core (TMC) is intended to maintain an **externally assigned goal** and permitted means, consume admitted typed context and verified results, use native acquired experience, and form successive **non-actuating mission intents**. An independent authority/executor retains responsibility for physical actions.
 
-**Established in the referenced scope**
+The decisive question is whether mission continuation is formed within the native computational mechanism, rather than supplied as route choices or resume indices by a host. The reviewed evidence addresses this question in bounded experiments; it does not establish unrestricted autonomy.
 
-- A bounded two-Print software experiment exhibited an intended joint mission-conduct behavior under coupled Conduct/Experience conditions and failed to exhibit that behavior in specified single/uncoupled controls.
-- A platform-facing STM32H723 test was documented in a separate scoped campaign; additional two-Print on-target results are operator-reported, with independent raw-data adjudication pending.
-- The available experiments do not show arbitrary mission capability, field readiness, or an economical universal replacement for Linux/LLM companion computers.
+## Evidence actually established in the referenced scopes
 
-## Morphic Vision: local perception research
+- **Bounded software mission continuation:** one fixed goal survived a sequence of degraded conditions. The computation rejected an obsolete continuation, formed a different admissible continuation, used a remaining admissible suffix, reached a typed completion condition and returned principled refusal when no continuation was feasible.
+- **Conduct / Experience composition:** a scoped two-Print experiment demonstrated a joint history-dependent continuation behavior absent from either Print alone or their uncoupled execution; necessary causal coupling and epoch effects were tested by controls.
+- **STM32H723 observations:** a frozen platform-facing experiment produced identical decision traces in two on-target runs with an external execution-authority boundary. Timing was measured for this fixture only, not certified as a general WCET guarantee. Separately reported two-Print hardware evidence awaits final independent raw-data scientific adjudication.
+- **Fair comparator:** a conventional controller with equivalent information reproduced some tested decisions. No universal superiority, impossibility of finite-state representation, or general performance advantage is claimed.
 
-The available BCRC-lineage research report describes **abstract optical observations generated in a host/digital environment**, with local admission to an organism's observation path. The simulation explores bounded confidence/degradation and the independence of read-only diagnostic aggregation from action authority.
+**Not established:** arbitrary mission planning, actual field/flight/space qualification, full companion-computer replacement, independence of all sensing infrastructure, universal bounded decision latency, or execution authority. The result is mission **computation**, not proof of physical mission completion.
 
-**Established in the referenced scope:** local-only digital input, specific degradation responses and deterministic replay properties within frozen fixtures. **Not established:** a validated physical camera, production perception module, arbitrary environmental robustness or an experimentally qualified TMC–Vision joint system.
+See [focused mechanism screen](11_FOCUSED_AUTONOMY_REVIEW.md) and [review challenge cards](12_REVIEWER_CHALLENGES.md).
 
-## Candidate architecture (conceptual only)
+## Morphic Vision: independent local perception research
+
+The available BCRC-lineage research describes abstract optical observations in a host/digital environment, bounded confidence/degradation and local admission. This is **not** a qualified physical camera or a validated TMC–Vision joint system.
+
+Perception can provide admitted observations to TMC or a future mobile platform, but its current separate standing cannot be used to inflate terminal-conduct claims.
+
+## Candidate architecture: responsibility separation only
 
 ```text
-Local perception / sensor observations (proposed)
-                      |
-                typed admission
-                      |
-         mission context / history
-                      |
-              TMC mission intent
-                      |
-        independent permission boundary
-                      |
-        external executor / controller
+sensor / observation producer (not yet jointly qualified)
+               |
+        bounded typed admission
+               |
+       TMC mission continuation
+               |
+      external authority boundary
+               |
+      executor and outcome feedback
 ```
 
-This diagram expresses responsibility separation, **not** a verified data path, deployable system design, sensor specification or guidance method.
+This is a non-operational responsibility diagram, not a deployable hardware/software data path.
 
-## Technical review questions
+## Reviewer questions
 
-1. What typed observation contract would be necessary for a non-executing TMC to consume independently obtained perception data?
-2. Is the integration scientifically distinguishable from a fair state-machine or conventional autonomy baseline?
-3. Can provenance, replay and authority separation survive real sensor errors and platform integration?
-4. What would count as a **failed** integration attempt, and what evidence would justify a more expensive test?
-
-**Do not infer** that the positive TMC and Morphic Vision results, considered separately, constitute proof of their combined capability.
+1. Is the assigned goal retained while the native mechanism changes subsequent continuations under matched present context?
+2. What would a fair same-information conventional controller do?
+3. What exactly did each hardware run measure, and what independent adjudication remains?
+4. What evidence would invalidate the proposed separation of mission computation and execution authority?
+5. Which new integration claim must be tested separately, rather than inferred from adjacent positive results?
