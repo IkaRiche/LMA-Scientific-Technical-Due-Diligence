@@ -14,6 +14,10 @@
 
 This agenda replaces the earlier general product tour. Morphic Vision remains relevant as an **unqualified separate perception candidate**, not a preselected integrated system.
 
+## Separate Morphic AI scientific question
+
+Morphic AI's intrinsic acquired-morphology memory and Print/Tissue developmental claim should be reviewed through [the dedicated 30 October mechanism screen](13_MORPHIC_AI_REVIEW.md), not merged into this **three-question** TMC/Guardian review session. The relevant counterclaim is an equal-information conventional finite-state/typed-graph explanation and/or scripted selection, not the existence of another TMC command gate. A physiological need without a later qualified functional world result is not task completion. Only the separately scoped shared-constituent causal result may be discussed as accepted research evidence; full adaptive organism function remains open.
+
 ## Review procedure
 
 1. **State the narrow claim and its stronger, unproved version.** Use [focused review](11_FOCUSED_AUTONOMY_REVIEW.md) and the [claims register](../evidence/CLAIMS_REGISTER.csv).
