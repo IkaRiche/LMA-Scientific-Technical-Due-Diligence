@@ -3,6 +3,7 @@
 This repository provides **public claims and their qualification limits only**. The underlying source repositories, commit identifiers, proofs, firmware, raw observations, configurations and research procedures are internal company records and **are not offered to external reviewers**, including under an NDA.
 
 - [Public claims register](CLAIMS_REGISTER.csv) — a bounded description of what is reported and what remains unverified externally.
+- [Morphic AI causal morphology and next scientific gate](../docs/13_MORPHIC_AI_REVIEW.md) — accepted scoped source evidence, conventional parity and pending negative controls.
 - [Focused mechanism screen](../docs/11_FOCUSED_AUTONOMY_REVIEW.md) — qualified statements for distributed autonomy, low-information communication/meeting and terminal mission conduct.
 - [Challenge cards](../docs/12_REVIEWER_CHALLENGES.md) — non-sensitive adversarial review prompts.
 - [Evidence interpretation](../docs/10_EVIDENCE_STANDARDS.md) — how to interpret the public status labels.
