@@ -5,6 +5,7 @@
 - [01 — Research overview](01_EXECUTIVE_OVERVIEW.md)
 - [02 — LMA formal scope and falsification](02_LMA_FORMAL_SCOPE.md)
 - [03 — TMC and Morphic Vision](03_TMC_VISION.md)
+- [13 — Morphic AI acquired operative morphology and scientific limits (30 Oct 2026)](13_MORPHIC_AI_REVIEW.md)
 - [04 — The two Guardian Veil research lines](04_GUARDIAN_VEIL.md)
 
 ## Focused mechanism review
