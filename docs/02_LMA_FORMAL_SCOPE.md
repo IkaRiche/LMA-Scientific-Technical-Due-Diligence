@@ -46,7 +46,11 @@ This package does **not** reproduce the canonical proof scripts or full witness 
 | Graph rewriting / spatial computation | Structured operators and local relations | Is a concrete LMA mechanism more than alternate syntax for an existing construction? |
 | Runtime assurance / supervisory control | Bounded execution restrictions | What does morphology add beyond established enforcement or policy methods? |
 
-**Important negative control:** an equal-information conventional comparator matched the tested TMC behavior in a bounded fixture. Therefore, no general computational irreducibility or superiority claim is warranted.
+**Important negative controls:** an equal-information conventional comparator matched the tested TMC behavior in a bounded fixture. Separate Morphic AI tests reported typed-graph/FSM **structural incidence parity across 1,536 scored ticks** in a fixed-edge finite benchmark. Neither observation eliminates morphology as an engineering representation, but both prevent claims of general finite-state irreducibility or superiority.
+
+The current Morphic AI ontology distinguishes a Print's own retained acquired morphology from **Tissue-level acquired shared operative structure**, which can have stage-dependent effects on future native function. The reported early/late shared-constituent cut is a scoped empirical causal intervention, **not** an additional mathematical theorem or a new formal proof of novel computational complexity. See [Morphic AI review](13_MORPHIC_AI_REVIEW.md).
+
+**Historical comparator note:** an equal-information conventional comparator matched the tested TMC behavior in a bounded fixture. Therefore, no general computational irreducibility or superiority claim is warranted.
 
 ## Reviewer acceptance criteria
 
