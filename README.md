@@ -17,11 +17,14 @@ It is **not** an open-source implementation, a technology transfer package, a pr
 | Area | Research focus | Evidence available | Qualification boundary |
 |:--|:--|:--|:--|
 | **LMA** | Formal semantics of morphological composition | Three existence results in a bounded finite model | General novelty and performance advantage remain open |
+| **Morphic AI — native Print/Tissue research** | Locally homeostatic Prints, acquired operative shared morphology and retained function | Source-integrated three-Print research; scoped prospective shared-structure causal cut | Full joint task, organism-level endogenous decision and FSM advantage not established |
 | **TMC — Terminal Mission Core** | Mission continuation through operative structure and acquired experience | Scoped software experiments; STM32H723 laboratory work | Not flight-qualified or operationally validated |
 | **Morphic Vision** | Admitted local perception under degradation | Digital/host-side test results | No qualified physical sensor or validated TMC integration |
 | **Veil of Elena** | Heterogeneous distributed protective morphology | 5/12-node digital studies and bounded 128-node digital composition | Not physical multi-node protection |
 | **Guardian Veil — relational line** | Organism-owned local needs, LMIO and higher-order functional composition | Scoped causal digital results | Not proof of general hardware efficacy |
 | **DRC / SRC** | Independent command-path admissibility and recovery | Bounded MCU-based enforcement experiments | Not safety certification |
+
+Morphic AI is a **distinct foundational research track**, not a demonstrated companion-computer replacement, and its current scientific ceiling must not be inferred from TMC/Veil results. See [Morphic AI scientific screen](docs/13_MORPHIC_AI_REVIEW.md).
 
 **Commercial product selection is open.** TMC with Morphic Vision and Guardian Veil are topics of active technical and market interest, not preselected products.
 
@@ -32,16 +35,19 @@ The diagram is a **map of research relationships**, not an assertion that the co
 ```mermaid
 flowchart TB
     L["LMA · formal research<br/>typed morphology and composition"]
+    M["Morphic AI<br/>acquired shared Tissue morphology"]
     T["TMC<br/>mission conduct"]
     V["Morphic Vision<br/>local perception"]
     O["Veil of Elena<br/>distributed digital morphology"]
     G["Guardian Veil<br/>organism-owned relational composition"]
     E["Evidence review<br/>claim → source → scope → verdict"]
 
+    L -. "research basis" .-> M
     L -. "research basis" .-> T
     L -. "research context" .-> G
     T <-. "candidate integration only" .-> V
     O <-. "distinct research programs" .-> G
+    M --> E
     T --> E
     V --> E
     O --> E
@@ -60,7 +66,7 @@ The current evidence does **not** establish general coordinate-free meeting-poin
 
 | Reviewer | Start with | Then examine |
 |:--|:--|:--|
-| **Mathematician / formal-methods reviewer** | [LMA formal scope](docs/02_LMA_FORMAL_SCOPE.md) | [Mathematical checklist](docs/08_MATHEMATICAL_REVIEW_CHECKLIST.md) and public proof scope |
+| **Mathematician / formal-methods reviewer** | [LMA formal scope](docs/02_LMA_FORMAL_SCOPE.md) | [Morphic AI causal morphology screen](docs/13_MORPHIC_AI_REVIEW.md) and [mathematical checklist](docs/08_MATHEMATICAL_REVIEW_CHECKLIST.md) |
 | **Autonomy / embedded systems engineer** | [TMC + Morphic Vision](docs/03_TMC_VISION.md) | [Two Guardian Veil programs](docs/04_GUARDIAN_VEIL.md) |
 | **Investor / industrial evaluator** | [Research overview](docs/01_EXECUTIVE_OVERVIEW.md) | [Review protocol](docs/05_REVIEW_PROTOCOL.md) and [joint opportunity selection](docs/06_PRODUCT_SELECTION.md) |
 | **Evidence / IP auditor** | [Claims register](evidence/CLAIMS_REGISTER.csv) | [Source pins](evidence/INDEX.md) and [disclosure boundary](docs/07_DISCLOSURE_BOUNDARY.md) |
@@ -98,4 +104,4 @@ This repository grants **no license to underlying proprietary technology**. See 
 
 ---
 
-**Research snapshot:** 28 October 2026 · **Audience:** mathematical reviewers, deeptech investors, industrial evaluation partners · **First product:** not selected.
+**Research snapshot:** 30 October 2026 · **Audience:** mathematical reviewers, deeptech investors, industrial evaluation partners · **First product:** not selected.
