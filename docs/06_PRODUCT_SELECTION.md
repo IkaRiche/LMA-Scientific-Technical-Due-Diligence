@@ -1,36 +1,32 @@
-# 06 — Joint selection of a commercialization opportunity
+# 06 — Partnership options and product selection: deliberately open
 
-**Decision status: OPEN.** The lead *qualification opportunity* raised in current discussions is retaining the mission and evaluating lawful continuation toward a mission-defined destination through GNSS/operator-link degradation, particularly for remote geological survey and pipeline inspection. This is not yet a selected commercial product or a claim of demonstrated GPS-denied physical arrival. See [industrial opportunity brief](14_INDUSTRIAL_MISSION_CONTINUITY.md). A scoped Morphic AI structural-causality result is a scientific input, not a selected product or demonstrated commercial demand. No product has been selected by the founder. The reviewers' present interests are distributed local coordination, coordinate-restricted communication / meeting behavior, and terminal mission conduct. These are **evidence questions**, not three already validated products. TMC + Morphic Vision remains a separate possible future integration, not the focus already selected for investment.
+**Current standing: NO COMMERCIAL STRUCTURE SELECTED.** The purpose of this page is to distinguish an identified technical gap from any proposed transaction. A potential technology integrator is assembling a broader technology stack for an end customer, already has an autopilot, and expressed particular interest in **mission-conduct continuity** under loss of operator communications or unreliable GNSS information. The end customer's specifications, contracting party, budget and evaluation conditions are not yet known.
 
-## Portfolio and licensing boundary
+This is **not** an investment term sheet, funding request, fixed-scope paid-pilot proposal, binding offer, or product roadmap. Whether the next interaction involves a narrowly scoped technology license, technical assessment, integration arrangement or another form is for the participants to discuss after the technical fit is understood.
 
-**One LMA foundation, multiple candidate product families.** A pilot or field-limited license for TMC would concern the specifically negotiated technical scope. It does not automatically transfer rights to Morphic AI, Guardian Veil, Morphic Vision, DRC/SRC, underlying LMA formalism or future developments. Any broader licensing or equity rights would require separate negotiation with the verified IP owner. This is a commercial scope statement, not a final legal conclusion or a representation that every research line is product-ready.
+## Technical opportunity under discussion
 
-## Candidate directions (not a ranking)
-
-| Candidate | Possible first commercial artifact | Required evidence before a product commitment |
+| Existing responsibility | Candidate missing function | Scientific and product boundary |
 |---|---|---|
-| TMC terminal mission conduct | Bounded technical feasibility review or SDK/board research option | Independent raw-data adjudication as needed, platform-specific need and honest latency/authority scope |
-| TMC + Morphic Vision | Joint architecture feasibility report, not a field system | Actual perception provenance, stable contracts and fair system baseline |
-| Guardian Veil distributed/low-information interaction | Scoped digital simulation and evidence-review service | Independent proof of the stated peer-channel and local decision claims, limitations of simulation host, actual buyer need |
-| Civilian local-feedback rendezvous research | Separate exploratory R&D study, not a ready embedded product | Demonstrate a native mechanism and real sensor/physical constraints; retain negative speed/geometry findings |
-| DRC/SRC | Embedded assurance evaluation under a defined platform contract | Platform-specific functional and reliability qualification |
-| Morphic AI native Tissue / acquired structural state | Paid independent mechanism-and-resource feasibility assessment, only after validated industrial deficiency | Joint useful function, matched conventional control, source-controlled causality and target resource bounds; not a general AI product yet |
-| Other LMA-derived research | Paid discovery / R&D option | Mechanism review and independently demonstrated customer deficit |
+| Existing autopilot, localization and safety controller retain movement/navigation authority | TMC retains the assigned mission goal, uses admitted feedback and forms permissible next mission intents | Does not replace or modify existing onboard subsystems; does not create missing position evidence |
+| Existing executor produces measurable external outcomes | TMC updates its admissible continuation or refuses under degradation | Scoped software and MCU results do not establish GNSS-denied physical arrival |
+| Existing stack integrates separate specialist technologies | TMC may fill an onboard mission-conduct role through a future typed interface | Interface compatibility, deployment performance and customer requirements remain unqualified |
 
-## Suggested joint evaluation gate (4–6 weeks, adjustable)
+The scientific point of interest is LMA-derived **operative morphology and acquired causally effective experience**, not a generic navigation algorithm or passive command filter. Source-controlled interventions and two-Print coupled-science results support that distinction within bounded tests. A fair full-information conventional comparator matched specific behaviors, so any difference in reliability, resources or economics remains to be established.
 
-1. **Technical screen:** choose 2–3 hypotheses with observable customer costs. Do not prioritize by novelty labels alone.
-2. **Evidence screen:** review public evidence and founder-operated demonstrations, rank unknowns and choose the smallest discriminating test for each hypothesis.
-3. **Market screen:** confirm actual buyer identities, decision process, substitute solution, available budget and permissible application.
-4. **IP screen:** distinguish pre-existing KOHI BG rights from new R&D outputs; verify patent and freedom-to-operate constraints with counsel.
-5. **Investment decision:** founders and investors jointly choose to validate, defer, license, spin out or stop. There is no assumed startup, price or valuation before this step.
+[Industrial mission continuity brief](14_INDUSTRIAL_MISSION_CONTINUITY.md) · [Scientific TMC evidence](03_TMC_VISION.md)
 
-## Partnership idea — subject to agreement
+## Portfolio: independent technology directions
 
-- The researcher/founder leads LMA and mechanism validation.
-- Partners may contribute financing, product team, commercial access and business governance.
-- Existing IP remains with its current owner, subject to verified ownership and contract terms.
-- A future vehicle may obtain a **field-limited** license for a specifically selected technology. Equity, funding, exclusivity and future improvements are separately negotiated.
+TMC is the immediate discussion focus, **not the entire LMA/STASYS IP portfolio**. Morphic AI, Morphic Vision, the two Guardian Veil research lines, DRC/SRC and other developments have different research claims and levels of maturity. An arrangement involving TMC does not automatically grant rights to those technologies or the underlying LMA formalism.
 
-Prospective customer access has been **reported by the founder**, not independently verified in this package. No buyer, purchase order or signed pilot is claimed.
+## Open decisions — for a subsequent discussion
+
+1. **Integrator need:** what precise mission-continuity behavior is missing from the already assembled stack, and what information can its existing hardware provide when GNSS or communications are degraded?
+2. **Proof requirement:** what observable, safely testable result would make the component technically relevant, and what current source evidence supports only a narrower proposition?
+3. **Commercial form:** evaluation, licensing, integration, joint development, investment or another arrangement — **none is presently preferred or committed**.
+4. **Rights:** define the specific technical field, duration, territorial scope, improvements and IP ownership, if and when negotiations reach that point. Existing KOHI BG rights remain with their holder unless a separately documented transaction changes that.
+
+No customer contract, investment, purchase order, exclusivity, price, equity amount or product selection is claimed. Protected source code, raw experimental evidence, complete proofs and undisclosed implementation parameters remain under owner control.
+
+[Disclosure boundary](07_DISCLOSURE_BOUNDARY.md) · [Rights and limitations](../LEGAL.md)
