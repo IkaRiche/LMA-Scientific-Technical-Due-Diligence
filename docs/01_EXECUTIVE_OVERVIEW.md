@@ -23,22 +23,24 @@ Lomidze Morphological Algebra (LMA) is an ongoing formal and experimental progra
 
 The active Morphic AI program treats **Morphic Memory as acquired, causally operative morphology**, rather than a separate RAM service or a post-hoc data store. By 30 October, accepted integrated source evidence covers continuous three-Print development, acquired local functional retention, and a **scoped prospective causal effect of an acquired shared constituent** on later native functional acquisition. A changed task also triggered native unmet need but **not** further useful reconfiguration in the tested configuration. An ordinary typed-graph/FSM comparator matched tested structural contact histories on a finite benchmark. The useful joint task, endogenous future restructuring and physical return loop remain unproved. See [focused Morphic AI review](13_MORPHIC_AI_REVIEW.md).
 
-## Focused external review request
+## Current external technical discussion
 
-The immediate interest is in **decentralized organism-owned coordination**, **low-information peer communication and meeting behavior**, and **TMC's terminal mission-continuation computation**. These topics must be tested as separate claims. In particular, the accepted peer-message restriction does not prove universal coordinate-free rendezvous; synthetic civilian meeting studies do not qualify native Veil; and a successful TMC bench decision trace does not establish flight or end-to-end execution.
+A potential integrator has an existing autopilot and is assembling a wider technology stack for an end customer whose exact requirements are not disclosed here. The immediate question is whether **TMC mission conduct** can provide a missing function: maintaining the assigned objective and forming bounded next mission intents when communications or GNSS information deteriorate, without changing the existing autopilot, navigation, sensors or safety authority. Separately, decentralized organism-owned coordination and restricted peer communication remain topics for technical review. These mechanisms and their evidence cannot be combined into an unqualified integrated-system claim.
 
-See the [focused claim screen](11_FOCUSED_AUTONOMY_REVIEW.md) and [challenge cards](12_REVIEWER_CHALLENGES.md).
+The partner's customer, product scope, commercial structure and future tests are not yet defined. See the [industrial brief](14_INDUSTRIAL_MISSION_CONTINUITY.md), [focused claims](11_FOCUSED_AUTONOMY_REVIEW.md) and [reviewer challenges](12_REVIEWER_CHALLENGES.md).
 
 ## Immediate industrial problem: mission continuity despite GNSS and link loss
 
 A field robot or drone may have a valid assigned destination or inspection objective when satellite positioning becomes untrustworthy or the operator link disappears. TMC is intended to retain that mission and derive permissible subsequent intents from typed observations and acquired causal experience while existing navigation, autopilot/controller, safety authority and execution components retain their responsibilities. This can be evaluated first for geological survey and remote pipeline inspection. The evidence currently supports bounded software mission conduct and scoped MCU decisions — **not independently verified GNSS-denied physical waypoint arrival**. The proposed next gate is a real-platform civilian experiment with trustworthy alternative local observation and independently verified outcome. See [industrial opportunity brief](14_INDUSTRIAL_MISSION_CONTINUITY.md).
 
-## Why an investor might care
+## Why a technology integrator might care
 
-The potential opportunity is a **portfolio of differentiable technical mechanisms**, each of which can be subjected to a bounded industrial qualification program. Plausible customer segments include robotics integrators, embedded-system OEMs, safety-critical software vendors and specialist autonomous-platform manufacturers. These are **market hypotheses**, not validated purchase orders.
+**An existing autopilot does not automatically solve mission-conduct continuity.** In a relevant platform profile, the potential contribution is an independent bounded mission component that uses admitted feedback and acquired history to determine permissible continuation under disruption, while the established controller remains responsible for movement, navigation and safety. This distinction is an integration hypothesis; qualified comparative cost, reliability and field performance have not yet been shown.
+
+The broader opportunity is a **portfolio of distinct technical mechanisms**, not an obligation to procure or invest in any specific one. Candidate users include robotics integrators, embedded OEMs and remote infrastructure operators; these are market hypotheses, not committed customers.
 
 Defense/aerospace is a candidate domain because inspectability, isolation, reproducibility and constrained compute can be material procurement criteria. A single technology's relevance to defense does **not** prove suitability for any mission, threat or deployment.
 
 ## Next decision
 
-The proposed outcome of this scientific review is **whether a deeper controlled examination is justified**, not an immediate allocation of equity, invention rights, or selection of a first product.
+The appropriate outcome is a technical fit decision: whether the integrator sees a role for TMC next to its existing systems, and what information or non-sensitive demonstrations are sufficient to discuss a future arrangement. **No paid pilot, license price, funding, exclusivity, equity or product choice is presumed.** [Open partnership options](06_PRODUCT_SELECTION.md).
