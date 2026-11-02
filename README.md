@@ -1,26 +1,22 @@
-# STASYS
-### Lomidze Morphological Algebra — Scientific & Technical Due Diligence
+# STASYS / LMA
 
-[![Documentation integrity](https://github.com/IkaRiche/LMA-Scientific-Technical-Due-Diligence/actions/workflows/validate.yml/badge.svg)](https://github.com/IkaRiche/LMA-Scientific-Technical-Due-Diligence/actions/workflows/validate.yml)
-[Research website](https://stasysos.eu/) · [Русская версия](README_RU.md) · [Reviewer guide](docs/00_START_HERE.md) · [Focused autonomy review](docs/11_FOCUSED_AUTONOMY_REVIEW.md) · [Evidence register](evidence/CLAIMS_REGISTER.csv)
+![STASYS / LMA — Lomidze Morphological Algebra](assets/stasys-lma-hero.png)
+
+**Lomidze Morphological Algebra (LMA)** is a formal and experimental research program into morphology-native computation. **STASYS** explores distinct technology applications grounded in that program — not one drone product, and not one already-qualified integrated system.
+
+**Featured industrial question:** Can an onboard mission-conduct core preserve an assigned objective and derive permissible continuations when operator communications or GNSS positioning degrade? **TMC** addresses this question without replacing the autopilot, navigation, sensors or independent execution authority. GPS-denied physical waypoint arrival remains a separate, unqualified integration objective.
+
+[**Technical showcase · 8 slides (RU)**](assets/STASYS_Technical_Capability_Showcase_RU_v3.pdf) · [**Industrial TMC brief**](docs/14_INDUSTRIAL_MISSION_CONTINUITY.md) · [**Scientific overview**](docs/01_EXECUTIVE_OVERVIEW.md) · [**Evidence register**](evidence/CLAIMS_REGISTER.csv) · [**Русская версия**](README_RU.md)
+
+[![Documentation integrity](https://github.com/IkaRiche/LMA-Scientific-Technical-Due-Diligence/actions/workflows/validate.yml/badge.svg)](https://github.com/IkaRiche/LMA-Scientific-Technical-Due-Diligence/actions/workflows/validate.yml) · [Research website](https://stasysos.eu/)
+
+| Research foundation | Featured mission-conduct technology | Other research directions |
+|:--|:--|:--|
+| **LMA / Morphic AI** · typed morphology, independently owned Prints, acquired functional Tissue | **TMC** · bounded persistent mission conduct, causal software results and STM32H723 lab evidence | **Guardian Veil / Morphic Vision / DRC-SRC** · distributed coordination, perception and embedded assurance |
+
+**Evidence boundary:** software and digital experiments, finite-model results and laboratory MCU traces have distinct scopes. This public package does not claim operational deployment readiness, general GNSS-denied navigation, independently reproducible access to withheld source, or universal advantage over conventional controllers.
 
 ---
-
-**Lomidze Morphological Algebra (LMA) is the foundational research program; STASYS is a portfolio of possible technology applications, not a single drone product.**
-
-The program already has distinct, evidence-bounded research and engineering lines in morphology-native computation, acquired operative memory, autonomous mission conduct, perception, distributed coordination and independent runtime assurance. **TMC is one prospective commercial embodiment among several** — the immediate industrial diligence focus because the prospective partner highlighted a concrete problem. Progress in one line does not validate the others.
-
-### Current industrial opportunity: mission continuity under degraded navigation and communications
-
-**Industrial focus:** TMC investigates how an autonomous robot or drone can retain its assigned mission and derive permissible continuations after loss of GNSS or operator communication, using trustworthy observations already available from its existing onboard systems. TMC does not replace the autopilot, localization or sensors, and it does not command actuators. Reaching a physical waypoint without GNSS remains an explicitly unqualified end-to-end objective, not an accomplished field result.
-
-**For industrial and investment reviewers:** [Mission continuity opportunity brief](docs/14_INDUSTRIAL_MISSION_CONTINUITY.md) — geology, pipeline inspections, evidence, integration responsibilities and the proposed qualification gate.
-
-**Scientific foundation:** Lomidze Morphological Algebra (LMA) and associated STASYS implementations are presented below with their measured evidence and qualification limits.
-
-LMA investigates computational systems in which the organization of typed functional elements — including spatial relations, voids, boundaries, interfaces and composition order — participates in the definition of computational transitions. This repository presents the scientific proposition, the currently documented evidence and the evidence boundaries under which public claims can be critically evaluated.
-
-It is **not** an open-source implementation, a technology transfer package, a product announcement or a claim of deployment readiness.
 
 ## Visual capability showcase (8 slides, Russian)
 
