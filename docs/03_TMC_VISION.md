@@ -6,6 +6,10 @@ Terminal Mission Core (TMC) is intended to maintain an **externally assigned goa
 
 The decisive question is whether mission continuation is formed within the native computational mechanism, rather than supplied as route choices or resume indices by a host. The reviewed evidence addresses this question in bounded experiments; it does not establish unrestricted autonomy.
 
+## Responsibility boundary for GNSS/communications degradation
+
+An assigned destination is a *mission goal*, not position information. TMC preserves the goal and selects permissible mission continuations on admitted typed evidence. Existing navigation/localization and sensors remain responsible for producing usable position or environment estimates; the existing autopilot/controller and independent authority/executor remain responsible for physical movement and its safety restrictions. TMC neither reconstructs position without evidence nor bypasses a controller's independent failsafe. When trustworthy alternative observations are insufficient, the defensible result is bounded refusal or hold, not an unverified claim of arrival. No modifications to the internals of other onboard systems are assumed; interface compatibility must be separately qualified. See [industrial mission-continuity opportunity](14_INDUSTRIAL_MISSION_CONTINUITY.md).
+
 ## Evidence actually established in the referenced scopes
 
 - **Bounded software mission continuation:** one fixed goal survived a sequence of degraded conditions. The computation rejected an obsolete continuation, formed a different admissible continuation, used a remaining admissible suffix, reached a typed completion condition and returned principled refusal when no continuation was feasible.
