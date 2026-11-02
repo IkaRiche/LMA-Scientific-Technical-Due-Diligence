@@ -8,38 +8,49 @@
 
 <p align="center"><a href="https://github.com/IkaRiche/LMA-Scientific-Technical-Due-Diligence/actions/workflows/validate.yml"><img alt="Documentation integrity" src="https://github.com/IkaRiche/LMA-Scientific-Technical-Due-Diligence/actions/workflows/validate.yml/badge.svg"></a></p>
 
-**LMA is the research foundation. STASYS explores a portfolio of distinct technology directions built upon that foundation — not a single drone product and not one already-qualified integrated system.** Each line below has its own mechanism, evidence and unresolved questions.
+**Lomidze Morphological Algebra (LMA)** is a foundational research program in morphology-native computation. **STASYS** investigates distinct applications of that research: mission conduct, Morphic AI, distributed cooperation and embedded assurance.
 
-## Technology portfolio
+**Featured industrial opportunity — TMC mission continuity:** an independent MCU-class onboard mission-conduct core intended to retain an assigned goal and form admissible next mission intents when GNSS information or operator communications degrade. TMC does **not** replace or modify the autopilot, localization, sensors, safety authority or executor. Real-world arrival at a specified destination without GNSS is **not yet qualified**.
+
+**This repository is a public scientific and technical due-diligence package:** bounded evidence, research limits, industrial evaluation questions and controlled IP disclosure. LMA is the foundation of a broader research portfolio, not a single drone product or a validated combined system.
+
+## LMA technology directions at a glance
 
 <table>
 <tr>
 <td width="50%" valign="top">
 <a href="docs/14_INDUSTRIAL_MISSION_CONTINUITY.md"><img src="assets/tech-tmc.svg" alt="TMC — conceptual mission-continuity artwork" width="100%"></a>
 <p><strong><a href="docs/14_INDUSTRIAL_MISSION_CONTINUITY.md">TMC · Mission conduct</a></strong></p>
-<p>Preserving a fixed goal and deriving admissible mission intents during sequential degradation. <strong>Scoped software results and STM32H723 laboratory evidence.</strong></p>
+<p>Retains an assigned mission goal and forms permissible next intents under degradation. <strong>Scoped software evidence; STM32H723 lab traces.</strong></p>
 </td>
 <td width="50%" valign="top">
 <a href="docs/13_MORPHIC_AI_REVIEW.md"><img src="assets/tech-morphic-ai.svg" alt="Morphic AI — abstract, noncanonical research illustration" width="100%"></a>
 <p><strong><a href="docs/13_MORPHIC_AI_REVIEW.md">Morphic AI · Native morphology</a></strong></p>
-<p>Independently owned Prints, acquired causally operative shared morphology and bounded research on functional acquisition. <strong>Not a qualified general organism.</strong></p>
+<p>Native Prints and acquired, causally operative shared morphology. <strong>Scoped digital research, not a qualified general organism.</strong></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="docs/04_GUARDIAN_VEIL.md"><img src="assets/tech-guardian-veil.svg" alt="Guardian Veil — conceptual distributed research artwork" width="100%"></a>
 <p><strong><a href="docs/04_GUARDIAN_VEIL.md">Guardian Veil · Distributed research</a></strong></p>
-<p>Two distinct research lines on local interaction, functional composition and limited peer expression. <strong>Digital, not deployed physical-system evidence.</strong></p>
+<p>Local functional cooperation and bounded peer expression. <strong>Two separate digital research lines; no field qualification.</strong></p>
 </td>
 <td width="50%" valign="top">
 <a href="docs/01_EXECUTIVE_OVERVIEW.md"><img src="assets/tech-drc-src.svg" alt="DRC/SRC — conceptual embedded assurance artwork" width="100%"></a>
 <p><strong><a href="docs/01_EXECUTIVE_OVERVIEW.md">DRC / SRC · Embedded assurance</a></strong></p>
-<p>Independent command-boundary and bounded recovery work, including MCU experiments. <strong>No general safety certification is implied.</strong></p>
+<p>Independent command-boundary assurance and bounded recovery. <strong>MCU experiments; no system-level safety certification.</strong></p>
 </td>
 </tr>
 </table>
 
 *All four images are conceptual branding, not operative morphology specifications, implementation diagrams or screenshots of deployed products. Morphic Vision and other tracks are covered in the [research overview](docs/01_EXECUTIVE_OVERVIEW.md).*
+
+## Why this merits technical review
+
+- **Formal foundation:** three existence results in a strictly bounded finite LMA model.
+- **Causal software evidence:** scoped TMC goal-preserving continuation and selective mechanism controls.
+- **Embedded evidence:** repeatable STM32H723 laboratory decision traces, without flight or deployment qualification.
+- **Industrial relevance:** remote geological surveys and infrastructure inspection where GNSS or operator links may degrade; reliable local sensing and independent execution remain necessary.
 
 ## Featured industrial opportunity · TMC
 
