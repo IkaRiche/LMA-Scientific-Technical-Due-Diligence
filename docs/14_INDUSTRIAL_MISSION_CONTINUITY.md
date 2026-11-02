@@ -2,6 +2,10 @@
 
 **Industrial opportunity brief · Public scientific and technical due diligence · 2 November 2026**
 
+## Position within the LMA technology portfolio
+
+Lomidze Morphological Algebra is a broader formal and experimental research program. **TMC is one candidate application of that research, not its sole purpose or its commercial limit.** Other distinct directions include native Morphic AI, Morphic Vision, distributed Guardian Veil mechanisms and DRC/SRC runtime assurance. Each has its own evidence maturity and potential buyer. The present brief concentrates on TMC because this particular industrial discussion identified a concrete mission-continuity problem; it does not imply that the entire LMA portfolio, patents or future applications are being offered for transfer.
+
 ## The operational problem
 
 A remote geological survey, pipeline inspection or autonomous field mission may lose contact with its operator or access to trustworthy GNSS positioning before reaching its assigned endpoint. Aborting every interrupted task is costly; continuing without sufficient reliable observations can be unsafe.
