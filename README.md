@@ -6,7 +6,11 @@
 
 ---
 
-**Mission continuity under degraded navigation and communications — backed by a bounded, auditable research program.**
+**Lomidze Morphological Algebra (LMA) is the foundational research program; STASYS is a portfolio of possible technology applications, not a single drone product.**
+
+The program already has distinct, evidence-bounded research and engineering lines in morphology-native computation, acquired operative memory, autonomous mission conduct, perception, distributed coordination and independent runtime assurance. **TMC is one prospective commercial embodiment among several** — the immediate industrial diligence focus because the prospective partner highlighted a concrete problem. Progress in one line does not validate the others.
+
+### Current industrial opportunity: mission continuity under degraded navigation and communications
 
 **Industrial focus:** TMC investigates how an autonomous robot or drone can retain its assigned mission and derive permissible continuations after loss of GNSS or operator communication, using trustworthy observations already available from its existing onboard systems. TMC does not replace the autopilot, localization or sensors, and it does not command actuators. Reaching a physical waypoint without GNSS remains an explicitly unqualified end-to-end objective, not an accomplished field result.
 
@@ -32,7 +36,7 @@ It is **not** an open-source implementation, a technology transfer package, a pr
 
 Morphic AI is a **distinct foundational research track**, not a demonstrated companion-computer replacement, and its current scientific ceiling must not be inferred from TMC/Veil results. See [Morphic AI scientific screen](docs/13_MORPHIC_AI_REVIEW.md).
 
-**Commercial product selection is open.** The priority industrial opportunity for the current discussions is TMC-supported mission continuity under communications and GNSS degradation, without transferring navigation or flight-control responsibility to TMC.  TMC with Morphic Vision and Guardian Veil are topics of active technical and market interest, not preselected products.
+**Commercial product selection is open.** The priority industrial opportunity for these discussions is TMC-supported mission continuity under communications and GNSS degradation, without transferring navigation or flight-control responsibility to TMC. It is one possible starting point for LMA commercialization, not a definition of the LMA platform or a commitment to sell the entire IP portfolio. Morphic AI, Morphic Vision, Guardian Veil, DRC/SRC and other LMA-derived lines retain distinct research goals and qualification requirements.
 
 ## Research structure
 
