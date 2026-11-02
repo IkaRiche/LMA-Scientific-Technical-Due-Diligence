@@ -1,5 +1,9 @@
 # Documentation index
 
+## Industrial mission opportunity
+
+- [14 — TMC mission continuity under degraded GNSS and communications: industry qualification brief](14_INDUSTRIAL_MISSION_CONTINUITY.md)
+
 ## Core research
 
 - [01 — Research overview](01_EXECUTIVE_OVERVIEW.md)
