@@ -6,7 +6,7 @@ This repository is a public **index of claims, provenance and review conditions*
 |:--|:--|:--|:--|
 | Scientific | ~20 min | [LMA formal scope](02_LMA_FORMAL_SCOPE.md) → [Morphic AI evidence](13_MORPHIC_AI_REVIEW.md) → [Mathematical review](08_MATHEMATICAL_REVIEW_CHECKLIST.md) | Separate finite-model theorems from scoped experimental causal morphology and remaining organism claims |
 | Engineering | ~20 min | [TMC / Morphic Vision](03_TMC_VISION.md) → [Guardian Veil](04_GUARDIAN_VEIL.md) | Separate component evidence from prospective integration |
-| Investment | ~15 min | [Program overview](01_EXECUTIVE_OVERVIEW.md) → [Opportunity selection](06_PRODUCT_SELECTION.md) | Identify candidate customer problems without preselecting a product |
+| Investment / industrial | ~15 min | [Industrial mission continuity](14_INDUSTRIAL_MISSION_CONTINUITY.md) → [Program overview](01_EXECUTIVE_OVERVIEW.md) → [Opportunity selection](06_PRODUCT_SELECTION.md) | Evaluate GNSS/link-loss mission-conduct opportunity without confusing TMC with autopilot or navigation |
 | Evidence / IP | ~15 min | [Claims register](../evidence/CLAIMS_REGISTER.csv) → [Source pins](../evidence/INDEX.md) → [Disclosure boundary](07_DISCLOSURE_BOUNDARY.md) | Determine what is intentionally withheld |
 
 ## Updated Morphic AI owner evidence — 30 October 2026
