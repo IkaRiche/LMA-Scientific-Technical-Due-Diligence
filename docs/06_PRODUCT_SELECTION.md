@@ -2,6 +2,10 @@
 
 **Decision status: OPEN.** The lead *qualification opportunity* raised in current discussions is retaining the mission and evaluating lawful continuation toward a mission-defined destination through GNSS/operator-link degradation, particularly for remote geological survey and pipeline inspection. This is not yet a selected commercial product or a claim of demonstrated GPS-denied physical arrival. See [industrial opportunity brief](14_INDUSTRIAL_MISSION_CONTINUITY.md). A scoped Morphic AI structural-causality result is a scientific input, not a selected product or demonstrated commercial demand. No product has been selected by the founder. The reviewers' present interests are distributed local coordination, coordinate-restricted communication / meeting behavior, and terminal mission conduct. These are **evidence questions**, not three already validated products. TMC + Morphic Vision remains a separate possible future integration, not the focus already selected for investment.
 
+## Portfolio and licensing boundary
+
+**One LMA foundation, multiple candidate product families.** A pilot or field-limited license for TMC would concern the specifically negotiated technical scope. It does not automatically transfer rights to Morphic AI, Guardian Veil, Morphic Vision, DRC/SRC, underlying LMA formalism or future developments. Any broader licensing or equity rights would require separate negotiation with the verified IP owner. This is a commercial scope statement, not a final legal conclusion or a representation that every research line is product-ready.
+
 ## Candidate directions (not a ranking)
 
 | Candidate | Possible first commercial artifact | Required evidence before a product commitment |
