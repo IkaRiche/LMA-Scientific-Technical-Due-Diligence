@@ -1,20 +1,68 @@
 # STASYS / LMA
 
-![STASYS / LMA — Lomidze Morphological Algebra](assets/stasys-lma-hero.png)
+<p align="center"><img src="assets/stasys-lma-hero.png" alt="STASYS / LMA — public scientific and technical due diligence banner" width="100%"></p>
 
-**Lomidze Morphological Algebra (LMA)** is a formal and experimental research program into morphology-native computation. **STASYS** explores distinct technology applications grounded in that program — not one drone product, and not one already-qualified integrated system.
+<p align="center"><strong>LOMIDZE MORPHOLOGICAL ALGEBRA</strong> · Scientific &amp; Technical Due Diligence</p>
 
-**Featured industrial question:** Can an onboard mission-conduct core preserve an assigned objective and derive permissible continuations when operator communications or GNSS positioning degrade? **TMC** addresses this question without replacing the autopilot, navigation, sensors or independent execution authority. GPS-denied physical waypoint arrival remains a separate, unqualified integration objective.
+<p align="center"><a href="README_RU.md">Русская версия</a> · <a href="docs/00_START_HERE.md">Reviewer guide</a> · <a href="docs/14_INDUSTRIAL_MISSION_CONTINUITY.md">Industrial opportunity</a> · <a href="evidence/CLAIMS_REGISTER.csv">Evidence register</a> · <a href="LEGAL.md">IP boundary</a></p>
 
-[**Technical showcase · 8 slides (RU)**](assets/STASYS_Technical_Capability_Showcase_RU_v3.pdf) · [**Industrial TMC brief**](docs/14_INDUSTRIAL_MISSION_CONTINUITY.md) · [**Scientific overview**](docs/01_EXECUTIVE_OVERVIEW.md) · [**Evidence register**](evidence/CLAIMS_REGISTER.csv) · [**Русская версия**](README_RU.md)
+<p align="center"><a href="https://github.com/IkaRiche/LMA-Scientific-Technical-Due-Diligence/actions/workflows/validate.yml"><img alt="Documentation integrity" src="https://github.com/IkaRiche/LMA-Scientific-Technical-Due-Diligence/actions/workflows/validate.yml/badge.svg"></a></p>
 
-[![Documentation integrity](https://github.com/IkaRiche/LMA-Scientific-Technical-Due-Diligence/actions/workflows/validate.yml/badge.svg)](https://github.com/IkaRiche/LMA-Scientific-Technical-Due-Diligence/actions/workflows/validate.yml) · [Research website](https://stasysos.eu/)
+**LMA is the research foundation. STASYS explores a portfolio of distinct technology directions built upon that foundation — not a single drone product and not one already-qualified integrated system.** Each line below has its own mechanism, evidence and unresolved questions.
 
-| Research foundation | Featured mission-conduct technology | Other research directions |
-|:--|:--|:--|
-| **LMA / Morphic AI** · typed morphology, independently owned Prints, acquired functional Tissue | **TMC** · bounded persistent mission conduct, causal software results and STM32H723 lab evidence | **Guardian Veil / Morphic Vision / DRC-SRC** · distributed coordination, perception and embedded assurance |
+## Technology portfolio
 
-**Evidence boundary:** software and digital experiments, finite-model results and laboratory MCU traces have distinct scopes. This public package does not claim operational deployment readiness, general GNSS-denied navigation, independently reproducible access to withheld source, or universal advantage over conventional controllers.
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="docs/14_INDUSTRIAL_MISSION_CONTINUITY.md"><img src="assets/tech-tmc.svg" alt="TMC — conceptual mission-continuity artwork" width="100%"></a>
+<p><strong><a href="docs/14_INDUSTRIAL_MISSION_CONTINUITY.md">TMC · Mission conduct</a></strong></p>
+<p>Preserving a fixed goal and deriving admissible mission intents during sequential degradation. <strong>Scoped software results and STM32H723 laboratory evidence.</strong></p>
+</td>
+<td width="50%" valign="top">
+<a href="docs/13_MORPHIC_AI_REVIEW.md"><img src="assets/tech-morphic-ai.svg" alt="Morphic AI — abstract, noncanonical research illustration" width="100%"></a>
+<p><strong><a href="docs/13_MORPHIC_AI_REVIEW.md">Morphic AI · Native morphology</a></strong></p>
+<p>Independently owned Prints, acquired causally operative shared morphology and bounded research on functional acquisition. <strong>Not a qualified general organism.</strong></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="docs/04_GUARDIAN_VEIL.md"><img src="assets/tech-guardian-veil.svg" alt="Guardian Veil — conceptual distributed research artwork" width="100%"></a>
+<p><strong><a href="docs/04_GUARDIAN_VEIL.md">Guardian Veil · Distributed research</a></strong></p>
+<p>Two distinct research lines on local interaction, functional composition and limited peer expression. <strong>Digital, not deployed physical-system evidence.</strong></p>
+</td>
+<td width="50%" valign="top">
+<a href="docs/01_EXECUTIVE_OVERVIEW.md"><img src="assets/tech-drc-src.svg" alt="DRC/SRC — conceptual embedded assurance artwork" width="100%"></a>
+<p><strong><a href="docs/01_EXECUTIVE_OVERVIEW.md">DRC / SRC · Embedded assurance</a></strong></p>
+<p>Independent command-boundary and bounded recovery work, including MCU experiments. <strong>No general safety certification is implied.</strong></p>
+</td>
+</tr>
+</table>
+
+*All four images are conceptual branding, not operative morphology specifications, implementation diagrams or screenshots of deployed products. Morphic Vision and other tracks are covered in the [research overview](docs/01_EXECUTIVE_OVERVIEW.md).*
+
+## Featured industrial opportunity · TMC
+
+**The question:** Can an independently mounted mission-conduct core retain an assigned goal and derive a new permissible mission continuation when operator communications or GNSS information degrade? Geological surveys and remote pipeline inspection are candidate applications.
+
+**The boundary:** TMC does **not** replace or modify the autopilot, localization, sensors, safety authority or executor. It cannot create missing position information. GNSS-denied real-world waypoint arrival has **not** been qualified.
+
+| 01 · Assigned objective | 02 · First interruption | 03 · Further degradation | 04 · Mission continuation |
+|:--|:--|:--|:--|
+| Goal and permitted means admitted | An initial option becomes unavailable | A previously valid continuation becomes stale | TMC derives another admissible non-actuating intent — or refuses |
+
+This sequence has a **scoped software experimental analogue**, not an end-to-end field-navigation result. [Read the industrial qualification brief](docs/14_INDUSTRIAL_MISSION_CONTINUITY.md).
+
+## Evidence at a glance
+
+| Formal LMA | TMC software | Embedded TMC | GNSS-denied field arrival |
+|:--|:--|:--|:--|
+| Three finite-model scoped existence results | Scoped goal-preserving conduct and causal controls | STM32H723 bench traces; later raw review pending | **NOT ESTABLISHED** |
+
+> [!NOTE]
+> **Research integrity and IP.** CI checks documentation integrity, not scientific proof. No private source, canonical proof objects, raw evidence or implementation license is provided here. Results from one research line do not qualify another. [Evidence standards](docs/10_EVIDENCE_STANDARDS.md) · [Disclosure boundary](docs/07_DISCLOSURE_BOUNDARY.md).
+
+**Start here:** [8-slide technical showcase (RU)](assets/STASYS_Technical_Capability_Showcase_RU_v3.pdf) · [Industrial TMC brief](docs/14_INDUSTRIAL_MISSION_CONTINUITY.md) · [Research overview](docs/01_EXECUTIVE_OVERVIEW.md) · [Scientific evidence](evidence/CLAIMS_REGISTER.csv) · [Joint product selection](docs/06_PRODUCT_SELECTION.md)
 
 ---
 

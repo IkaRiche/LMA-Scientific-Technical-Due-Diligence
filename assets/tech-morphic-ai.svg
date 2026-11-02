@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-label="MORPHIC AI - conceptual technology illustration">
+ <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#071C2C"/><stop offset="57%" stop-color="#0C3246"/><stop offset="100%" stop-color="#0B2536"/></linearGradient><linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#18BDBF"/><stop offset="100%" stop-color="#77F6D4"/></linearGradient></defs>
+ <rect width="900" height="330" rx="26" fill="url(#bg)"/><path d="M0 22H900" stroke="#1FA9BC" stroke-width="4"/><path d="M490 0 V330 M523 0 V330" stroke="#3D8A99" opacity=".12" stroke-width="2"/>
+ <path d="M525 311 C614 280 740 300 900 260 M520 40 C621 97 760 10 900 70" stroke="#59B6BF" fill="none" stroke-width="2" opacity=".15"/>
+ <text x="58" y="72" fill="#82D2D9" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" letter-spacing="5">STASYS  /  LMA</text>
+ <text x="58" y="201" fill="#F4FCFF" font-family="DejaVu Sans, Arial, sans-serif" font-size="94" font-weight="700" letter-spacing="-1">MORPHIC AI</text>
+ <text x="58" y="252" fill="#83E8E3" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" letter-spacing="2.5">ACQUIRED OPERATIVE MORPHOLOGY</text>
+ <path d="M58 288 H477" stroke="url(#line)" stroke-width="3" opacity=".7"/>
+ <path d="M679 42 C592 56 552 143 601 216 C634 271 760 284 836 211 C912 136 837 48 755 50" stroke="#55DAD4" stroke-width="4" fill="none" opacity=".55"/><path d="M744 72 C654 46 598 142 650 209 C707 273 839 221 810 137 C800 103 779 86 744 72" stroke="#82E7CF" stroke-width="7" fill="#0A4856" fill-opacity=".47"/><path d="M686 125 C707 90 779 105 783 159 C787 199 736 221 709 194 C691 176 673 154 686 125" stroke="#5BEFE4" stroke-width="6" fill="none"/><path d="M715 151 Q745 133 758 164" stroke="#F1BA7A" stroke-width="8" fill="none" stroke-linecap="round"/><circle cx="745" cy="163" r="11" fill="#9FFFE0"/>
+ </svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-label="GUARDIAN VEIL - conceptual technology illustration">
+ <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#071C2C"/><stop offset="57%" stop-color="#0C3246"/><stop offset="100%" stop-color="#0B2536"/></linearGradient><linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#18BDBF"/><stop offset="100%" stop-color="#77F6D4"/></linearGradient></defs>
+ <rect width="900" height="330" rx="26" fill="url(#bg)"/><path d="M0 22H900" stroke="#1FA9BC" stroke-width="4"/><path d="M490 0 V330 M523 0 V330" stroke="#3D8A99" opacity=".12" stroke-width="2"/>
+ <path d="M525 311 C614 280 740 300 900 260 M520 40 C621 97 760 10 900 70" stroke="#59B6BF" fill="none" stroke-width="2" opacity=".15"/>
+ <text x="58" y="72" fill="#82D2D9" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" letter-spacing="5">STASYS  /  LMA</text>
+ <text x="58" y="201" fill="#F4FCFF" font-family="DejaVu Sans, Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="-1">GUARDIAN VEIL</text>
+ <text x="58" y="252" fill="#83E8E3" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" letter-spacing="2.5">DISTRIBUTED RESEARCH</text>
+ <path d="M58 288 H477" stroke="url(#line)" stroke-width="3" opacity=".7"/>
+ <ellipse cx="658" cy="90" rx="25" ry="36" stroke="#5ADCE2" stroke-width="5" fill="#0A5860" fill-opacity=".6"/><ellipse cx="783" cy="132" rx="26" ry="37" stroke="#7DF4C6" stroke-width="5" fill="#0A515A" fill-opacity=".5"/><ellipse cx="646" cy="242" rx="27" ry="37" stroke="#55CDD9" stroke-width="5" fill="#0A5860" fill-opacity=".6"/><ellipse cx="821" cy="248" rx="28" ry="37" stroke="#5ADCE2" stroke-width="5" fill="#0A5860" fill-opacity=".6"/><ellipse cx="742" cy="209" rx="27" ry="38" stroke="#B5E7BD" stroke-width="5" fill="#13484F" fill-opacity=".55"/><path d="M598 167 Q708 54 857 175 Q815 293 655 286" stroke="#447F95" stroke-width="3" stroke-dasharray="5 14" fill="none" opacity=".65"/>
+ </svg>
