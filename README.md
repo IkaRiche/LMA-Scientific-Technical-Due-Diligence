@@ -6,7 +6,13 @@
 
 ---
 
-**An evidence-first technical index for the Lomidze Morphological Algebra (LMA) research program and its related STASYS implementations.**
+**Mission continuity under degraded navigation and communications — backed by a bounded, auditable research program.**
+
+**Industrial focus:** TMC investigates how an autonomous robot or drone can retain its assigned mission and derive permissible continuations after loss of GNSS or operator communication, using trustworthy observations already available from its existing onboard systems. TMC does not replace the autopilot, localization or sensors, and it does not command actuators. Reaching a physical waypoint without GNSS remains an explicitly unqualified end-to-end objective, not an accomplished field result.
+
+**For industrial and investment reviewers:** [Mission continuity opportunity brief](docs/14_INDUSTRIAL_MISSION_CONTINUITY.md) — geology, pipeline inspections, evidence, integration responsibilities and the proposed qualification gate.
+
+**Scientific foundation:** Lomidze Morphological Algebra (LMA) and associated STASYS implementations are presented below with their measured evidence and qualification limits.
 
 LMA investigates computational systems in which the organization of typed functional elements — including spatial relations, voids, boundaries, interfaces and composition order — participates in the definition of computational transitions. This repository presents the scientific proposition, the currently documented evidence and the evidence boundaries under which public claims can be critically evaluated.
 
@@ -26,7 +32,7 @@ It is **not** an open-source implementation, a technology transfer package, a pr
 
 Morphic AI is a **distinct foundational research track**, not a demonstrated companion-computer replacement, and its current scientific ceiling must not be inferred from TMC/Veil results. See [Morphic AI scientific screen](docs/13_MORPHIC_AI_REVIEW.md).
 
-**Commercial product selection is open.** TMC with Morphic Vision and Guardian Veil are topics of active technical and market interest, not preselected products.
+**Commercial product selection is open.** The priority industrial opportunity for the current discussions is TMC-supported mission continuity under communications and GNSS degradation, without transferring navigation or flight-control responsibility to TMC.  TMC with Morphic Vision and Guardian Veil are topics of active technical and market interest, not preselected products.
 
 ## Research structure
 
@@ -68,7 +74,7 @@ The current evidence does **not** establish general coordinate-free meeting-poin
 |:--|:--|:--|
 | **Mathematician / formal-methods reviewer** | [LMA formal scope](docs/02_LMA_FORMAL_SCOPE.md) | [Morphic AI causal morphology screen](docs/13_MORPHIC_AI_REVIEW.md) and [mathematical checklist](docs/08_MATHEMATICAL_REVIEW_CHECKLIST.md) |
 | **Autonomy / embedded systems engineer** | [TMC + Morphic Vision](docs/03_TMC_VISION.md) | [Two Guardian Veil programs](docs/04_GUARDIAN_VEIL.md) |
-| **Investor / industrial evaluator** | [Research overview](docs/01_EXECUTIVE_OVERVIEW.md) | [Review protocol](docs/05_REVIEW_PROTOCOL.md) and [joint opportunity selection](docs/06_PRODUCT_SELECTION.md) |
+| **Investor / industrial evaluator** | [Industrial mission continuity](docs/14_INDUSTRIAL_MISSION_CONTINUITY.md) | [Research overview](docs/01_EXECUTIVE_OVERVIEW.md) and [joint opportunity selection](docs/06_PRODUCT_SELECTION.md) |
 | **Evidence / IP auditor** | [Claims register](evidence/CLAIMS_REGISTER.csv) | [Source pins](evidence/INDEX.md) and [disclosure boundary](docs/07_DISCLOSURE_BOUNDARY.md) |
 
 For a guided reading sequence, see **[Start here: reviewer pathways](docs/00_START_HERE.md)**. The [research documentation index](docs/INDEX.md) lists the complete public package.
