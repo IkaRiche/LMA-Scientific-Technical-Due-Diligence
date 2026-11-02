@@ -1,5 +1,9 @@
 # Documentation index
 
+## Visual briefing
+
+- [STASYS technical capability showcase — eight Russian-language illustrated slides (PDF)](../assets/STASYS_Technical_Capability_Showcase_RU_v3.pdf) — conceptual scenario illustrations, not operator-interface captures or physical field qualification
+
 ## Industrial mission opportunity
 
 - [14 — TMC mission continuity under degraded GNSS and communications: industry qualification brief](14_INDUSTRIAL_MISSION_CONTINUITY.md)

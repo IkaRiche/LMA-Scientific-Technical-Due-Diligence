@@ -22,6 +22,10 @@ LMA investigates computational systems in which the organization of typed functi
 
 It is **not** an open-source implementation, a technology transfer package, a product announcement or a claim of deployment readiness.
 
+## Visual capability showcase (8 slides, Russian)
+
+[**View the STASYS technical capability showcase (PDF)**](assets/STASYS_Technical_Capability_Showcase_RU_v3.pdf) — visual explanations of distributed local decisions, bounded LMIO peer communication, and TMC mission continuity with an STM32H723 evidence overview. **These are conceptual technical illustrations, not screenshots of a deployed operator UI or evidence of field-ready autonomy.** The underlying experimental scope and limits are recorded below.
+
 ## At a glance
 
 | Area | Research focus | Evidence available | Qualification boundary |
