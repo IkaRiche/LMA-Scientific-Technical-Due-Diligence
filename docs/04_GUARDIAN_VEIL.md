@@ -1,35 +1,38 @@
-# 04 — Guardian Veil: two separate research programs
+# 04 — Guardian Veil: two research programs and a strict communication boundary
 
-## A. Original “Veil of Elena” — distributed digital protective morphology
+## A. Original "Veil of Elena": distributed digital morphology
 
-**Research owner:** `stasys-guardian-veil` (original program / historical evidence). The program built a substantial digital research environment for heterogeneous autonomous nodes with local sensing, relational interaction, spatial organization and protective response. Its evidence includes:
+The original program studied heterogeneous autonomous nodes, local sensing, spatial organization, digital-twin replay and bounded fault tests. Reported results include:
 
-- bounded **5- and 12-node** digital reference configurations, with local protective-pattern behavior, fault/recovery scenarios and experimental comparisons;
-- a digital Full Stack composition studied through **128 nodes** (simulation scope, **not** evidence of physical scaling);
-- explicit heterogeneous node types and capabilities, geometry/placement sensitivity and local protective spatial motifs;
-- digital-twin replay, visualization, bounded fault studies and a critical evaluation path before physical qualification.
+- 5- and 12-node digital reference configurations under selected local interactions and disruptions;
+- bounded digital Full Stack composition through 128 nodes, **not** physical scale qualification;
+- effects of node heterogeneity, placement and local protective spatial configurations;
+- documented negative cases and comparisons that prevent general superiority or robustness claims.
 
-The measured simulation outcomes are **bounded by their models, scenarios and admitted observations**. General physical protection or performance against specific airborne targets is not established.
+These are simulation results. They do not establish practical physical protection, reliable response to named threats, or an arbitrary decentralized hardware network.
 
-## B. Relational Guardian Veil — organism-owned causal functional composition
+## B. Relational Guardian Veil: local ownership and functional composition
 
-**Research owner:** `guardian-veil` (distinct subsequent line). This work is not simply a version increment of the first simulator. Its defining questions are organism ownership of physiological state, local needs, constrained peer expression (LMIO), admission of observations, independently authorized actions and composition of functions at higher levels.
+This subsequent, distinct program studies organism-owned needs, physiological peer expression, local observation admission, independently authorized actions and higher-order composition (HOLT/HOLO).
 
-Within frozen digital conditions, its research reports scoped evidence for:
+The frozen digital line contains scoped evidence for relational protective behavior, resilience, functional recruitment and limited higher-order composition.
 
-- causal relational protective behavior and resilience;
-- functional recruitment through organism-owned interactions;
-- higher-order functional compositions described as HOLT/HOLO;
-- a bounded example where a local physiological peer expression participates in functional relief later confirmed by the original organism's own observation of the shared modeled environment.
+One particularly relevant two-organism experiment established a **bounded causal closure with physiological LMIO as the peer semantic channel**: the receiving organism used its own admitted observation and usable capability, while the initiating organism inferred the functional result from changes in the modeled physical world observed locally. The tested peer path required neither target coordinates, a remote role assignment nor a return packet reporting success. Controls suppressed necessary links and changed the frozen result.
 
-Neither signaling nor relational composition automatically grants actuation authority or proves a working multi-node defensive hardware system.
+**This is a claim about a particular peer channel and a particular simulated causal loop.** Local observations still derive from a modeled world; it is not evidence that no system layer uses coordinates, that no raw data ever exists, or that a general meeting-point calculation has been proved.
 
-## Why both programs matter
+## C. The meeting / rendezvous question
 
-The original line contributes **scale, heterogeneity, geometry, digital-twin methodology and system-level evaluation**. The relational line contributes **organism-owned causality, local functional coordination and higher-order composition**. They are independent evidence programs that may inform future integration; there is no accepted shortcut proving the full composed physical product.
+A separate archival program explored a **civilian ground rover and moving service station** with local feedback, where spatial coordinates were not delivered through the rover's receiver channel. Positive outcomes occurred in some finite synthetic configurations. Later tests found important limitations under changed speed, geometry and interacting-rover assumptions; some stronger preregistered hypotheses failed.
 
-## High-speed protective applications: research question, not a capability claim
+These studies are classified as **independent synthetic donor research**, not a native Guardian Veil execution, not a validated physical docking system and not proof of a general LMIO-only meeting-point solver.
 
-The investor has raised rapidly changing airborne-threat environments as a possible customer-relevant use case. Existing results justify asking a **bounded qualification question**: are the observation, physical-model fidelity, provenance, reliability and verification assumptions adequate for an eventual system study? They do not justify claims of successful protection against particular jet-powered, ballistic or otherwise high-speed objects.
+The architectural possibility of independent local meeting objectives is a research direction; it must not be advertised as a scientifically qualified generalized calculation mechanism.
 
-No named-threat interception envelope, engagement geometry, deployment recipe or field performance is provided by this public package.
+## D. Combined-system boundary
+
+The original digital program contributes heterogeneity and simulation-based system evaluation. The relational program contributes organism-owned causal behavior and constrained peer interaction. The civilian studies contribute separate evidence about local-feedback co-location.
+
+**No cross-program implication is automatic.** TMC integration, physical sensing, operational multi-node efficacy and a generic coordinate-free rendezvous mechanism are not established by combining positive reports from these tracks.
+
+See [focused technical screen](11_FOCUSED_AUTONOMY_REVIEW.md), [reviewer challenge cards](12_REVIEWER_CHALLENGES.md) and [public claims register](../evidence/CLAIMS_REGISTER.csv).

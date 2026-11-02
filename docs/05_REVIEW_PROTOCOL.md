@@ -1,35 +1,44 @@
 # 05 — Proposed scientific and technical due-diligence protocol
 
-**Purpose:** an efficient, falsifiable technical review, not a product demonstration or penetration into proprietary source. No experimental execution is authorized by this document.
+**Purpose:** adversarial, claim-specific **preliminary** technical assessment of the three mechanisms requested by the prospective reviewers. No implementation, scientific execution, source access or IP disclosure is authorized by this document.
 
-## Meeting 2: suggested 75-minute technical review
+## Suggested 75-minute focused technical review
 
-| Time | Review topic | Reviewer should ask for |
+| Time | Topic | Decisive reviewer question |
 |---|---|---|
-| 0–15 min | LMA mathematical object | Terms, finite model scope, one theorem statement and what constitutes its proof |
-| 15–30 min | LMA novelty and reductions | Strongest known analogues; equal-information baselines; evidence of non-decorative structure |
-| 30–50 min | TMC research | Causal separation of mission conduction and retained experience; original vs controlled test verdicts |
-| 50–60 min | Morphic Vision | Actual sensor evidence versus modeled perception; which integration contracts are still absent |
-| 60–70 min | Two Veil lines | 5/12-node digital reference, 128-node digital scale, relational evidence and limitations |
-| 70–75 min | Next stage | Agree on non-sensitive questions and owner-operated demonstrations |
+| 0–10 min | LMA terms and evidence boundaries | What exactly is defined, tested, independently checkable or still hypothetical? |
+| 10–30 min | Guardian Veil distributed autonomy | Which local decisions are organism-owned, and what prevents a hidden global allocator from explaining the result? |
+| 30–45 min | Coordinate-exchange and meeting claims | Which **peer-message** properties were actually tested? What local sensing remains? Which separate synthetic meeting results are not native Veil evidence? |
+| 45–65 min | TMC terminal mission conduct | Does a fixed goal survive successive changes through native continuation decisions, and what did the MCU bench actually demonstrate? |
+| 65–75 min | Adversarial verdict and next gate | Which claim survives scrutiny, which needs evidence, and what smallest independent discriminator should come next? |
 
-## Evidence-review gate (before any commercialization decision)
+This agenda replaces the earlier general product tour. Morphic Vision remains relevant as an **unqualified separate perception candidate**, not a preselected integrated system.
 
-- **Traceability:** internal traceability is retained by KOHI BG; external reviewers receive public claim descriptions and limitations only.
-- **Separation of scopes:** software science, physical MCU evidence, digital protective simulations and untested integration hypotheses remain distinct.
-- **Independent controls:** full-information conventional comparator where appropriate, plus fixed preregistered ablations.
-- **Repeatability:** full technical reproduction remains an internal procedure; external observers may see bounded outputs without implementation details.
-- **Adversarial review:** identify one simpler explanation or implementation that could remove the claimed differentiation.
-- **Disclosure control:** never transfer source code, proofs, private repository access, raw evidence or sensitive IP, regardless of NDA. Reviewer findings should be recorded as `PASS`, `FAIL`, `INCONCLUSIVE` or `EVIDENCE_INSUFFICIENT`.
+## Separate Morphic AI scientific question
 
-## Direct questions to put to the reviewers
+Morphic AI's intrinsic acquired-morphology memory and Print/Tissue developmental claim should be reviewed through [the dedicated 30 October mechanism screen](13_MORPHIC_AI_REVIEW.md), not merged into this **three-question** TMC/Guardian review session. The relevant counterclaim is an equal-information conventional finite-state/typed-graph explanation and/or scripted selection, not the existence of another TMC command gate. A physiological need without a later qualified functional world result is not task completion. Only the separately scoped shared-constituent causal result may be discussed as accepted research evidence; full adaptive organism function remains open.
 
-1. Which claim, if validated, would materially change your technical assessment?
-2. What is the smallest independent test capable of rejecting it?
-3. Which accepted conventional alternative is the strongest comparator?
-4. What evidence would establish the relevance of a specific industrial use case?
-5. What high-level evidence or owner-operated demonstration would be sufficient for preliminary evaluation?
+## Review procedure
 
-## Recommended outputs of the review
+1. **State the narrow claim and its stronger, unproved version.** Use [focused review](11_FOCUSED_AUTONOMY_REVIEW.md) and the [claims register](../evidence/CLAIMS_REGISTER.csv).
+2. **Identify the strongest simpler explanation.** Include equal-information conventional controls and host/simulator leakage where relevant.
+3. **Inspect only approved public summaries.** The rights holder may conduct a non-sensitive owner-operated illustration; no reviewer receives source, executable implementations, proof objects, raw files or internal repo access.
+4. **Separate observed behavior from independent verification.** The internal experiment verdict must not be confused with the external reviewer's finding.
+5. **Use [challenge cards](12_REVIEWER_CHALLENGES.md)** to record questions, evidence, precise limits and a verdict for each claim.
+6. **Define next gate.** Only when a material unresolved claim can be distinguished by an agreed legal, non-sensitive experiment or analysis. No product or funding commitment is implied.
 
-An annotated claims register; reviewed mathematics scope; accepted/rejected evidence mapping; a list of remaining scientific unknowns; a mutually agreed plan (or decision not to proceed), without disclosure of proprietary source artifacts. **No first product is preselected.**
+## Access and stopping rules
+
+The public package is a **claims index**, not a self-contained proof bundle. If source inspection, private evidence or exact mathematical witnesses are necessary for an independent verification, the correct conclusion is `INCONCLUSIVE` or `EVIDENCE_INSUFFICIENT`, not `PASS`. Any subsequent access model requires a separate rights-holder and legal decision; this document itself offers none, including under NDA.
+
+Never silently combine:
+
+- the original digital Veil and later relational Veil into one demonstrated physical system;
+- a peer channel without coordinate payloads with a system needing no local geometry at all;
+- synthetic civilian meetings with native Veil or real-world interception;
+- a TMC intent or an MCU replay with actual field mission execution;
+- documentation CI with independent scientific certification.
+
+## Requested output from the reviewers
+
+A completed claim-level challenge sheet, the strongest remaining conventional alternative, a written external verdict for each claim, a list of evidence they could not inspect, and **one mutually agreed next qualification question** (or a justified decision to stop). The first commercial product remains unselected.
