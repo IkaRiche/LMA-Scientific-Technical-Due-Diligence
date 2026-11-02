@@ -29,6 +29,10 @@ The immediate interest is in **decentralized organism-owned coordination**, **lo
 
 See the [focused claim screen](11_FOCUSED_AUTONOMY_REVIEW.md) and [challenge cards](12_REVIEWER_CHALLENGES.md).
 
+## Immediate industrial problem: mission continuity despite GNSS and link loss
+
+A field robot or drone may have a valid assigned destination or inspection objective when satellite positioning becomes untrustworthy or the operator link disappears. TMC is intended to retain that mission and derive permissible subsequent intents from typed observations and acquired causal experience while existing navigation, autopilot/controller, safety authority and execution components retain their responsibilities. This can be evaluated first for geological survey and remote pipeline inspection. The evidence currently supports bounded software mission conduct and scoped MCU decisions — **not independently verified GNSS-denied physical waypoint arrival**. The proposed next gate is a real-platform civilian experiment with trustworthy alternative local observation and independently verified outcome. See [industrial opportunity brief](14_INDUSTRIAL_MISSION_CONTINUITY.md).
+
 ## Why an investor might care
 
 The potential opportunity is a **portfolio of differentiable technical mechanisms**, each of which can be subjected to a bounded industrial qualification program. Plausible customer segments include robotics integrators, embedded-system OEMs, safety-critical software vendors and specialist autonomous-platform manufacturers. These are **market hypotheses**, not validated purchase orders.
