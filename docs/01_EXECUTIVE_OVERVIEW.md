@@ -4,7 +4,7 @@
 
 Lomidze Morphological Algebra (LMA) is an ongoing formal and experimental program initiated by Irakli Lomidze. It explores the idea that computation can be defined by **operative organization**, rather than only by a list of instructions and functions. Typed voids, boundaries, interfaces, composition order and history can be causal parts of a machine's permitted transitions.
 
-The program has produced multiple *distinct* research and engineering implementations. One accepted result in one domain does not prove the same result in another. No universal dominance over neural networks, state machines, control theory, or established spatial models is asserted.
+**LMA is the technology-generating research foundation, not a synonym for TMC, a single drone board or one end market.** The program has produced multiple *distinct* research and engineering implementations. TMC is the lead use case for the present partner-specific technical discussion, while Morphic AI, Veil, perception, enforcement and other directions remain separate possible applications. Their maturity varies and no exclusive portfolio-wide commercial decision is being implied. One accepted result in one domain does not prove the same result in another. No universal dominance over neural networks, state machines, control theory, or established spatial models is asserted.
 
 ## Distinct tracks and their relationship
 
