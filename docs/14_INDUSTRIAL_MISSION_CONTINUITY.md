@@ -14,6 +14,12 @@ A remote geological survey, pipeline inspection or autonomous field mission may 
 
 The specific industrial question is whether this can ultimately help a robot, drone or other autonomous platform reach **a mission-defined destination** through GNSS or communications degradation, with completion confirmed independently. **GNSS-denied physical arrival has not yet been demonstrated by the TMC research package.**
 
+## The missing layer alongside an existing autopilot
+
+An autopilot or robot controller executes movement and handles its own navigation and safety functions. A separate mission executive must decide **what mission intent remains admissible next** after a change in communications, observations, or completed work. TMC is being evaluated for this second responsibility; it does not require replacing or modifying the existing flight controller.
+
+This is a proposed **functional fit in a multi-technology onboard stack**, not a claim that a complete platform has been integrated or qualified.
+
 ## What STASYS TMC contributes
 
 **STASYS Terminal Mission Core (TMC)** is an independently mounted, MCU-class **mission-conduct core** derived from Lomidze Morphological Algebra research. Its proposed responsibility is to preserve an externally assigned objective, consume admitted typed context and verified execution results, and derive the next permissible mission intent through its own operative morphology and acquired experience (scars and epochs).
@@ -37,6 +43,12 @@ Compatibility with a platform's existing safety/failsafe behavior is an **integr
 
 These are **use-case hypotheses**, not validated customer savings, contracts or field deployments.
 
+## Technical distinction worth evaluating
+
+The LMA-derived TMC hypothesis is not just a list of fallback routes or an ALLOW/BLOCK gate. In the **bounded tested mechanism**, permissible mission continuations depend on operative morphological relations; acquired, morphology-relative scars and epochs influence subsequent expression; causally coupled Conduct/Experience Prints can produce a later mission-continuation phenotype that was absent under relevant single-Print and uncoupled controls. A continuation can be invalidated without the host handing the runtime a new route identifier or resume index.
+
+The alternatives must be treated fairly: a fully informed conventional controller reproduced particular bounded outcomes. Therefore this is evidence for **causal mechanism and a possible engineering alternative**, not for universal novelty, greater efficiency, or superior success rates. Integration economics, resource use, reliability and field value remain to be measured on the partner's actual platform.
+
 ## Evidence already available
 
 | Evidence tier | Owner-reported finding | Qualification boundary |
@@ -48,9 +60,9 @@ These are **use-case hypotheses**, not validated customer savings, contracts or 
 
 The accepted conventional full-information comparator reproduced bounded mission decisions. The proposed value is a *testable architectural and industrial hypothesis*, not a claim that conventional finite-state or robotics systems cannot do the same job.
 
-## Proposed first industrial feasibility gate
+## Potential next technical evaluation — if requested by the integrator
 
-Use a **civilian remote-inspection profile**, a real existing controller (unmodified internally), a compatible TMC interface and an equal-information conventional mission executive as baseline.
+If the potential integrator decides to assess TMC further, a suitable *candidate* is a civilian remote-inspection profile, a real existing controller (unmodified internally), a compatible TMC interface and an equal-information conventional mission executive as baseline. The actual test, scope, duration and resources are **not agreed** and depend on the integrator's existing technology stack and end-customer requirements.
 
 **Pre-register the following outcomes:** assigned-goal retention; use of admissible mission continuation after operator-link loss; the response when GNSS becomes unavailable but *independent trustworthy local localization* remains; the response when reliable localization is insufficient; stale/intentionally conflicting input refusal; independently verified arrival or task completion; and no TMC actuator-authority leakage.
 
@@ -58,10 +70,12 @@ Use a **civilian remote-inspection profile**, a real existing controller (unmodi
 
 **Go / no-go:** if a complete trusted local state cannot be supplied without GNSS, or an existing controller's safety contract prevents the proposed continuation, no claim of destination reach follows. Scope the pilot down or record **EVIDENCE_INSUFFICIENT** rather than relaxing the required outcome.
 
-## Business and IP boundary
+## Cooperation status and IP boundary
 
-Potential participants are industrial autonomy OEMs, robotics integrators, remote-survey firms and infrastructure inspection operators. A logical first transaction is a **paid, bounded feasibility/qualification engagement**, followed — only after results — by a platform-specific license or OEM arrangement.
+A prospective technology integrator has indicated interest in mission continuation as a potentially missing functional layer next to an existing autopilot. The integrator is assembling a broader technology stack for a customer whose requirements have not been disclosed to the rights holder. No buyer decision, procurement process, paid pilot, investment amount, field of use or transaction model has been agreed.
 
-The underlying TMC implementation, canonical proofs, detailed morphology, firmware and original experimental records remain under **KOHI BG EOOD's controlled IP custody**. This public document supplies no implementation license or source access, including under NDA.
+**Possible structures remain open:** a specifically scoped license, integration/evaluation arrangement or another mutually negotiated form. Nothing in this package proposes a default financing amount, price, equity allocation, exclusivity or mandatory development roadmap. The actual customer problem and platform integration constraints must be established first.
+
+The underlying TMC implementation, canonical proofs, detailed morphology, firmware and original experimental records remain under **KOHI BG EOOD's controlled IP custody**. LMA and other STASYS research tracks are not automatically part of a TMC-focused arrangement. This public document supplies no implementation license or source access, including under NDA.
 
 [Scientific TMC scope](03_TMC_VISION.md) · [Reviewer protocol](05_REVIEW_PROTOCOL.md) · [Public evidence register](../evidence/CLAIMS_REGISTER.csv) · [Disclosure boundary](07_DISCLOSURE_BOUNDARY.md)
