@@ -11,7 +11,7 @@ This repository is a public **index of claims, provenance and review conditions*
 
 ## Morphic AI evidence update — 3 November 2026
 
-The owner-integrated native source now reports **scoped acquired Tissue-level joint function**, retained morphological causality over changed same-family tasks, and digital world feedback through a Print's own admitted observations. The original memory and split-copy protocols failed; later *separately preregistered corrected* experiments support narrower positive results. This is an accepted limited Tissue-level advance, not a qualified full organism, generalized learning, hardware qualification or proven advantage over a fully informed conventional pipeline. The owner also prioritized minimal independently physiological Prints; that decision is **not an experiment**. Read [Morphic AI scientific review](13_MORPHIC_AI_REVIEW.md) and [claims register](../evidence/CLAIMS_REGISTER.csv).
+The source-integrated Morphic AI program reports **scoped acquired Tissue-level joint function**, retained causal morphology across changed same-family tasks and independent digital-world feedback through a Print's own admitted observations. The public package presents these accepted results at their tested scope, not as general intelligence or physical deployment. Internal research history and experimental planning are not part of this external packet. Read [Morphic AI scientific review](13_MORPHIC_AI_REVIEW.md) and [claims register](../evidence/CLAIMS_REGISTER.csv).
 
 ## Focused engineering review — November 2026
 
