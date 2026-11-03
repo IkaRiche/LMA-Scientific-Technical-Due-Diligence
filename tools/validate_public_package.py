@@ -33,7 +33,7 @@ assert len(ids) == len(set(ids))
 assert len(claims) >= 12
 critical = {"GV2-04", "GV2-05", "GV2-06", "CIV-01", "CIV-02", "TMC-05", "TMC-06", "INTEGRATION-02"}
 assert critical.issubset(ids), "Missing critical focused-review claim IDs"
-morphic_critical = {"MAI-01", "MAI-02", "MAI-03", "MAI-04", "MAI-05", "MAI-06", "MAI-07", "MAI-08", "MAI-09", "MAI-10"}
+morphic_critical = {"MAI-01", "MAI-02", "MAI-03", "MAI-04", "MAI-05", "MAI-06", "MAI-07", "MAI-08", "MAI-09", "MAI-10", "MAI-11", "MAI-12", "MAI-13", "MAI-14", "MAI-15", "MAI-16", "MAI-17"}
 assert morphic_critical.issubset(ids), "Missing Morphic AI scientific and negative evidence claim IDs"
 by_id = {row["claim_id"]: row for row in claims}
 for claim_id in ("GV2-05", "GV2-06", "CIV-02", "INTEGRATION-02"):
@@ -41,9 +41,15 @@ for claim_id in ("GV2-05", "GV2-06", "CIV-02", "INTEGRATION-02"):
 assert by_id["CIV-01"]["status"] == "PASS_PROTOCOL_REVIEW_ONLY"
 assert by_id["MAI-03"]["status"] == "PASS_SCOPED", "Shared morphology prospective cut must remain scoped"
 assert by_id["MAI-05"]["status"] == "BASELINE_PARITY", "Preserve FSM parity negative control"
-for claim_id in ("MAI-06", "MAI-08", "MAI-10"):
+for claim_id in ("MAI-06", "MAI-08", "MAI-10", "MAI-15", "MAI-16", "MAI-17"):
     assert by_id[claim_id]["status"] == "NOT_ESTABLISHED", f"Do not promote unqualified Morphic AI capability: {claim_id}"
 assert by_id["MAI-07"]["status"] == "PENDING_REVIEW", "Draft donor investigation must not be promoted"
+for claim_id in ("MAI-11", "MAI-12", "MAI-13"):
+    assert by_id[claim_id]["status"] in ("PASS_SCOPED", "PASS_REPLICATION_SCOPED"), f"New Morphic AI result exceeds scope: {claim_id}"
+assert by_id["MAI-14"]["status"] == "FAIL_SCOPED", "Original preregistered negative results must remain visible"
+assert by_id["MAI-11"]["status"] == "PASS_SCOPED", "Digital-world feedback must remain bounded"
+for claim_id in ("MAI-12", "MAI-13"):
+    assert by_id[claim_id]["status"] == "PASS_REPLICATION_SCOPED", f"Corrected evidence must not be promoted: {claim_id}"
 for entry in claims:
     assert entry["status"] and entry["scope"] and entry["source_id"]
 
