@@ -16,7 +16,7 @@ This agenda replaces the earlier general product tour. Morphic Vision remains re
 
 ## Separate Morphic AI scientific question
 
-Morphic AI has a separate [3 November scientific screen](13_MORPHIC_AI_REVIEW.md); it is **not** evidence for a combined TMC/Guardian platform. New accepted scoped source results cover acquired **jointly functional Tissue**, causal reuse of its operative morphology under changed same-family tasks, and bounded digital world feedback with a Print's own observation. Original memory/split-copy protocols failed and corrected prospective replications carry narrower positive verdicts. A conventional fully connected typed pipeline remains an important alternative. Minimal independent Print viability, full organism phenotype and endogenous typed decision remain unestablished; a positive Tissue experiment must not be called full Morphic AI.
+Morphic AI has a separate [3 November scientific screen](13_MORPHIC_AI_REVIEW.md); it is **not** evidence for a combined TMC/Guardian platform. Accepted scoped source results cover acquired **jointly functional Tissue**, causal reuse of its operative morphology under changed same-family tasks, and bounded digital-world feedback with a Print's own observation. This does not establish general organism-level intelligence, physical deployment or superiority to a conventional typed pipeline.
 
 ## Review procedure
 
