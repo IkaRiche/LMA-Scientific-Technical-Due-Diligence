@@ -16,7 +16,7 @@ Assess whether specific LMA mathematical claims are well-defined, internally cor
 
 ## Additional Morphic AI mechanism challenge
 
-Distinguish finite-model mathematical theorems from **empirical acquired-shared-morphology ablation**. Review whether a later native function depends on an earned shared constituent, whether an early intervention differs causally from a post-transfer intervention, and whether a conventional typed-graph/FSM carries all the same information. In the reported fixed-edge structural control, 1,536 scored ticks matched the FSM comparator: this negative result must be preserved. The meaningful next question is task-relevant *joint* native function under changed goals and earned history, with a fair baseline—not a theorem of general non-reducibility. See [Morphic AI review](13_MORPHIC_AI_REVIEW.md).
+Distinguish finite-model mathematical theorems from **source-native acquired functional Tissue**. The new scoped experiments report a useful jointly acquired first-step result absent under separately owned passive material copies, causal reuse of that shared morphology on changed same-family tasks with cut/sham/restore controls, and independent digital-world feedback. Review the original failed timing and split-copy protocols as well as their corrected prospective replications. In the earlier fixed-edge structural control, **1,536 scored ticks matched the FSM comparator**; the split-copy control does not substitute for a fair, fully connected conventional functional pipeline. The open next gate is minimal independent physiological Print constitution and an organism-owned phenotype/typed decision, not re-demonstration of Tissue arithmetic. See [Morphic AI review](13_MORPHIC_AI_REVIEW.md).
 
 ## Required recorded evidence
 
