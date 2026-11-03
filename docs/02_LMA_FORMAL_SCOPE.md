@@ -48,7 +48,7 @@ This package does **not** reproduce the canonical proof scripts or full witness 
 
 **Important negative controls:** an equal-information conventional comparator matched the tested TMC behavior in a bounded fixture. Separate Morphic AI tests reported typed-graph/FSM **structural incidence parity across 1,536 scored ticks** in a fixed-edge finite benchmark. Neither observation eliminates morphology as an engineering representation, but both prevent claims of general finite-state irreducibility or superiority.
 
-The current Morphic AI ontology distinguishes a Print's own retained acquired morphology from **Tissue-level acquired shared operative structure**, which can have stage-dependent effects on future native function. The reported early/late shared-constituent cut is a scoped empirical causal intervention, **not** an additional mathematical theorem or a new formal proof of novel computational complexity. See [Morphic AI review](13_MORPHIC_AI_REVIEW.md).
+The current Morphic AI ontology distinguishes a Print's own retained acquired morphology from **Tissue-level acquired shared operative structure**. In later bounded digital experiments the source-native acquired Tissue supports a jointly acquired functional result, causal reuse over changed same-family tasks and a separately applied digital-world consequence with own-observation feedback. These are **scoped empirical causal interventions**, not additional algebraic theorems or proof of novel complexity. The original failed protocols and conventional comparator parity remain material. See [Morphic AI review](13_MORPHIC_AI_REVIEW.md).
 
 No general computational irreducibility or superiority claim is warranted by either comparator or by the finite-model theorems.
 
