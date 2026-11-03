@@ -1,92 +1,81 @@
-# 13 — Morphic AI: acquired causal morphology, functional Tissue and the open organism gate
+# 13 — Morphic AI: acquired functional Tissue, causal Morphic Memory and the open organism gate
 
-**Evidence cutoff:** 30 October 2026.  
-**Classification:** public scientific/technical claim screen; not a release, patent claim, source audit or independent replication.  
-**Evidence owner:** MORPHIC_AI (underlying source and raw records retained privately by the rights holder).
+**Evidence cutoff:** 3 November 2026.  
+**Classification:** public scientific and technical claim-level review; not a source release, patent disclosure, independent replication or product certification.  
+**Evidence owner:** `MORPHIC_AI`; exact source revisions, original experimental records and protected implementation details remain internal to the rights holder.
 
-## Research question
+## Why this research matters
 
-Can independent, locally homeostatic **Lomidze Prints** acquire compatible, genuinely shared and operative **Tissue** morphology through their own needs and admitted interactions, retain acquired structural history, and use that history for later **endogenous typed function and decisions** under changing conditions?
+Morphic AI investigates whether independent, locally homeostatic **Lomidze Prints** can acquire genuinely shared, causally operative **Tissue** morphology through native developmental laws, then use that earned structure to perform useful joint functions and eventually form **endogenous typed decisions**. This is distinct from the TMC mission-conduct product candidate, Guardian Veil and conventional AI wrappers.
 
-This is Morphic AI's scientific target. It is **not** a safety wrapper, a drone mission controller, a general-purpose language model or a deployed autonomous organism. TMC, Guardian Veil, physical robotics and civilian rendezvous are separate tracks or possible test environments. Passing a test in any of them does not prove the Morphic AI organism.
+**A meaningful new scoped milestone is established by 3 November:** the current native experimental source has evidence for a **jointly acquired Tissue-level computational function**, not merely physical contacts or separately retained local functions. A matched first-step counterfactual with the same living Print private state but separately owned copies of the shared constituent lacks the joint native output; isolated/co-present Prints also lack it in the tested conditions. The acquired Tissue produces a useful result in a bounded digital task, followed by an independently applied digital-world consequence and the originating Print's own homeostatic observation.
 
-The narrowest defensible current claim is that **specific acquired shared structural constituents had a prospective causal effect on a later native function** within a bounded three-Print digital experiment. More ambitious claims about independently useful joint task solving and adaptive organism-level intelligence remain open.
+The same retained Tissue subsequently acts on several predeclared changed tasks from the *same limited task family*. Its continued utility depends causally on acquired shared morphology. These findings do **not** establish general learning, a full Morphic Organism, arbitrary task solving or an advantage over all conventional algorithms.
 
-## Public computational vocabulary and memory correction
+## Canonical ontology and public scope
 
-- **Print:** a bounded, typed spatial computational constitution with functional sites, typed voids, interfaces and locally owned state.
-- **Native need / physiological expression:** a locally computed insufficiency or condition; a bounded peer-facing signal must not secretly encode a selected partner, task answer or execution command.
-- **Tissue:** a composition of real, independently owned Prints with operative shared constituents and causally coupled state transitions. A host-maintained set of member identifiers or preselected links is insufficient.
-- **Morphic Memory:** retained, acquired **operative morphology** (structural scars, surviving constituents, developmental relations and their effects on future transitions). It is **not** an additional RAM service, log, epoch counter, checksum, graph-cache or generic memory feature to be added later.
-- **Epoch / lineage:** a hypothesized or scoped developmental distinction and continuity of surviving operative structure; an incremented label or a rebuilt equivalent graph is not proof of either.
-- **Task outcome:** a separately specified useful result, distinguished from bond creation, a proposed action, a forecast and a real change in the external world.
+- **Print:** an independently constituted physiological entity with typed operative morphology, its own admitted observations, homeostasis, lawful development and continuity. A placed function plus a Void, without native physiology, is not by itself a living Print.
+- **Tissue:** acquired, jointly operative native morphology of independent Prints. It is not merely a list of participants, a message bus or a host-selected graph.
+- **Chirp:** bounded physiological expression of need, not an inter-Print instruction, solution, role assignment or success report.
+- **Morphic Memory:** retained **acquired operative morphology** with demonstrable effects on later native function. It is not a separate cache, log, history service or epoch label.
+- **Endogenous decision:** produced by continuing organism physiology and its causal structure, not a hidden host solver or an external executor's choice.
 
-A non-canonical explanatory form is:
+These are public research terms, not a reproduction of private canonical proofs, data structures or algorithms. They do not imply that every proposed transition in a full organism has been experimentally established.
 
-```text
-own admitted observation + locally owned need + compatible typed morphology
-  -> native structural/functional transition on continuing Print/Tissue state
-  -> acquired operative morphology (intrinsic history)
-  -> subsequent native phenotype / candidate function
-  -> separate authority and, where relevant, external execution/observation
-```
+## Evidence chronology and qualification boundaries
 
-This is a **research contract**, not the complete formal LMA algebra, not an implementation recipe, and not proof that all arrows are established in one full system. The LMA finite-model theorems are separately scoped in [02](02_LMA_FORMAL_SCOPE.md).
-
-## What the internally reported experiments support
-
-The rows below distinguish **owner-reported scoped execution** from external independent verification. Test counts describe regression suites, not samples establishing effect size or reliability.
-
-| Mechanism | Reported result by 30 October | Exact qualification ceiling |
+| Scientific question | Owner-recorded outcome | What the outcome does **not** prove |
 |---|---|---|
-| Continuous source-native three-Print development | Integrated engineering source maintains two successively acquired shared contacts while preserving independent Print owners, with a native 202-test suite in a later integration run. | Bounded three-owner fixture; not proof of arbitrary-N growth or useful joint task. |
-| Acquired native functional recruitment | Two typed functions become usable by later Print owners through real admitted native contacts; replay and relevant negative controls are reported. | Forecasts and qualified synthetic receipts are not verified physical actuation. No indispensable combined three-owner task proved. |
-| History and local retention | A changed-and-restored goal preserves acquired local functions in the same continuing Tissue; selective local function cuts isolate their respective outputs. Native suite: 203/203. | Local acquired-function retention is established in scope; not demonstrated endogenous Tissue-wide reconfiguration. |
-| **Prospective shared-morphology intervention** | An early selective cut of an acquired **shared** constituent prevents one later acquired function while another independently acquired pathway remains; the equivalent cut **after** acquisition does not erase now-local retained functions. Native suite: 205/205. | **PASS_SCOPED** for development-stage causal dependence and stage sensitivity. Not general Tissue memory superiority or a new organism decision. |
-| Locally generated need under changed goal | A Print's own measured insufficiency reaches an actual shared constituent; sustaining the need does not produce a new contact in that tested morphology. Native suite: 208/208. | **Need observed, reconfiguration not observed.** Lack of a new bond does not imply absence of homeostatic need or missing action receipts. |
-| Conventional explanation control | On fixed permitted physical contact edges, a separately implemented bounded typed-graph/FSM comparator matched the native structural incidence across **1,536 scored ticks**. | **PARITY** in this narrow structural test. No demonstrated general irreducibility, efficiency, or advantage over finite-state methods. |
-| Additional function/opportunity investigation | Unmerged source audits report a persistent missing task-effective function in the tested existing three-owner constitution, a separate one-Print candidate-function donor, and a repair to an initially invalid negative control. | **Research in review.** Donor candidate is not transfer into a living Tissue; a corrected control's green CI is not an independently accepted scientific verdict. |
-| Endogenous functional joint task, new-task redevelopment and independent world return | No accepted integrated result for an indispensable joint task with history-dependent native reconfiguration and a verified external outcome. | **NOT_ESTABLISHED**. No claim of full Morphic AI organism or physically autonomous task completion. |
+| **Previously accepted native development and retention (through 30 Oct)** | Independent Prints acquired shared morphology; bounded functional recruitment, early/late shared-constituent interventions and locally retained functions showed causal effects. | A shared contact alone is not a useful joint task; no automatic arbitrary-N, physical or organism-level claim. |
+| **Bounded digital world feedback (2 Nov)** | In a source-native experiment, one uniquely available joint candidate was applied by a separate digital-world executor. Later **own observations** of changed world state regulated the originating Print; matched no-apply/delay controls distinguished the effect. | No physical sensor/actuator provenance, general choice among competing outputs or end-to-end real-world system. |
+| **Retained acquired morphology on changed tasks (3 Nov)** | The same continuing native Tissue reused its already earned shared function on several predeclared **same-family** task changes after native recovery. A targeted shared-constituent cut removed the future result; a noncausal sham did not; restoration rescued it. Fresh, comparable unacquired Prints lacked the first-step result. | No autonomous acquisition of a new elementary arithmetic law or general cross-domain reasoning; no independently established resource/latency advantage. |
+| **Acquired joint Tissue function against passive independent copies (3 Nov)** | In a corrected prospectively specified first-step test, the live jointly acquired Tissue produced a useful functional output that isolated/co-present Prints and matched **separate copies** of its otherwise equal acquired material did not. The external digital world acted on the uniquely available native result. | No impossibility of an explicitly wired conventional pipeline or FSM; the matched split-copy continuation encounters a capacity failure on the next step, so only the **first-step discrimination** is qualified. |
+| **Previously accepted conventional structural comparator** | On an earlier fixed-contact finite benchmark, a typed-graph/FSM comparator matched structural incidence for **1,536 scored ticks**. | This parity does not erase the acquired-native-material result, but prevents a broad irreducibility/superiority claim. |
+| **Native organism phenotype, new functional-domain adaptation and independent physical effects** | **NOT_ESTABLISHED.** The source currently establishes scoped Tissue function and bounded digital feedback, not a qualified new organism-level decision chain. | Do not infer a complete organism, general intelligence, flight readiness or physical autonomy. |
 
-**Negative and failed evidence is material:** a previously attempted control changed a cold Print into an invalid constitution, so its failure did not test the intended physiological hypothesis. Its corrected version requires separate scientific adjudication even if compilation and tests pass. Historical fixed-task latch parity, same-information FSM parity and failed transfer experiments must not be silently promoted or discarded.
+**Evidence classes matter.** The newly accepted Tissue-level function is a **scoped source-native causal functional result**, supported by corrected and preregistered experiments and integrated source. It is **not** an independent public replication: the original source and raw records are withheld from this public repository.
 
-## Source-branch reconciliation rule
+### Historical negatives and corrections are preserved
 
-The rights holder's internal source history was examined by source category, branch relationship and merge status. The public verdicts above use the **accepted integrated source** for current engineering standing, independently qualified donor results only within their original experiment, and **unmerged draft research** only as pending leads. Older divergent branches, closed-unmerged proposals and historical review documents must not be treated as current mainline capability or as a reason to overwrite later negative records.
+The initial prospective changed-task-memory experiment **failed** because its cold-acquisition timing assumption and post-task physiological recovery timing were incorrect. A separate **precommitted corrected replication** later passed. Its results do not turn the original failed protocol into a PASS.
 
-This public index deliberately does **not** publish internal branch names, repository locations, commits, control coordinates, raw logs, source code or protected implementation parameters. The underlying provenance remains in the internal ledger; see [source navigation](09_SOURCE_NAVIGATION.md) and [disclosure boundary](07_DISCLOSURE_BOUNDARY.md).
+Likewise, the original shared-versus-split experiment **failed its planned multi-step continuation**: the separated-copy arm exhausted its bounded native event capacity on its next step. A corrective precommitted protocol qualified only the first-step functional difference, with the later failure still retained. An intermediate revision also failed strict engineering linting before the final passing source.
 
-## Strongest alternatives and unresolved mechanisms
+The corrected positive results are genuine evidence at their specified scopes. The failures are also genuine and must not be erased, relabeled as successful original preregistrations or hidden by a green CI badge.
 
-1. **Finite-state/typed-graph explanation.** Bounded digital systems admit ordinary state-based representations; matching outputs on a fair comparator is a real negative result for any claimed advantage within that benchmark. A morphology-specific benefit needs measurable compositional, reuse, verification or resource outcomes under equal information and resources.
-2. **Prearranged contact or host-selected solution.** Independent observations and an external test scheduler are permissible, but if the host selects partner identities, desired topology, tasks' answers or downstream function placement, endogenous development has not been shown.
-3. **Bond count mistaken for utility.** A shared contact without a task-relevant downstream typed function does not establish a useful Tissue phenotype. A prospectively acquired function is still not a completed physical task.
-4. **Acquired state mistaken for an extra memory register.** A scar/epoch counter alone is not Morphic Memory. Attribute the future difference to a retained, causally operative shared structure after matching the other available information.
-5. **Host-only resources mistaken for embedded feasibility.** Host object-layout measurements and passing `no_std` builds do not establish peak SRAM, stack, real-time bounds, energy consumption or successful MCU execution. Copy-heavy transitions require explicit resource measurement before any platform claim.
+## What is now established scientifically
 
-## Minimal decisive next gate — proposed, NOT executed
+The accepted scoped interpretation is that **independently living Prints can lawfully acquire a genuinely common, functional Tissue**, whose joint native capability is absent from its independent constituents and matched passive separations **under the tested conditions**. The acquired shared morphology has a causal role in later outputs on changed tasks, and a bounded independent digital-world application produces subsequent Print-owned physiological feedback.
 
-**H1 (primary):** after independently observed new need, the *same continuing* multi-Print Tissue lawfully develops or reorganizes a task-effective typed functional path using an acquired shared structural history; the path changes a predeclared useful outcome.
+The **new capability is a function of the acquired composition**, not the invention of a new elementary function opcode. A conventional program could compute the same bounded arithmetic; a sufficiently informed finite-state representation can model the tested digital process. What is established is a particular causal organization in the source-native mechanism, not universal algorithmic exclusivity.
 
-**H0 (competing):** the behavior is fully explained by current inputs, a conventional controller with equal information, a fixed contact schedule, local-only function retention, or externally supplied outcome/receipt.
+The earlier **local functional-retention**, **early-versus-late shared-morphology cut**, **own-unmet-need without reconfiguration**, and **FSM structural-parity** observations retain their original distinct scopes. The new evidence neither rewrites those results nor qualifies unmerged exploratory branches automatically.
 
-The experiment must be preregistered *before* execution and include:
+## Current owner direction — distinct from the evidence verdict
 
-- a useful task/observable defined independently of contacts or Print IDs; matched independent observation provenance, prior state and resource limits;
-- continuing Print ownership, real shared constituent identity, no runtime host-selected roles, genome patching or cold reconstruction;
-- an independently qualified task-relevant donor, compatibility and functional admission, without adding a fourth Print merely to increase bond count;
-- an **early/late acquired shared-morphology cut**, local-only function cut, missing-need and invalid-contact controls, changed task order, and deterministic replay;
-- independent external plant/authority and outcome observation if the claim includes actuation; proposed intent and synthetic receipt alone cannot establish relief;
-- an equal-information **conventional typed-graph/FSM baseline**, plus explicit stack/RAM/WCET measurement on any claimed target.
+On 3 November the owner prioritized the **smallest independently viable physiological Print**, rather than treating the earlier multifunction research specimen as the required template for every future Print. The proposed minimum includes a simple operative function and a real TypedVoid **together with** its own native observation, homeostasis, developmental law, need-only Chirp and morphological continuity. This is an ontology and research-priority clarification, **not a new passed experiment** or a license to delete physiological mechanisms for code-size convenience.
 
-**PASS_SCOPED** requires a qualified, causally useful native task outcome that survives the non-cut arm and is lost under the preregistered necessary intervention, with honest baseline reporting. **FAIL** applies if the necessary mechanism collapses under controls or depends on a host-supplied answer. **INCONCLUSIVE / EVIDENCE_INSUFFICIENT** applies where function provenance, external effect, source qualification or access is absent. **PARITY** is a legitimate benchmark result.
+The existing larger native specimens remain valid **scoped evidence donors**. A smaller source-native physiological substrate, organism-level owned phenotype, and bounded non-solving typed decision are **not yet qualified**. Later Tissue-to-Organ designs remain proposals, not current experimentally verified capability.
 
-**Stop conditions:** no task-relevant legal function; only bond-number improvement; hardcoded topology; missing independent outcome; unmeasured target resources; or need to disclose protected source to make a public assertion. New donor work must not be retroactively counted as the completed gate.
+## Strongest alternatives and limitations
 
-## Decision for this diligence
+1. **Explicit conventional typed pipeline / FSM.** A wired arithmetic component with the same available information may produce the same numerical outputs. A fair baseline must compare equal observations, resources, latency, continuity and ownership constraints; native split-copy controls alone are not a universal comparison.
+2. **Externally preselected morphology.** A host that picks the correct partner, injects task answers or selects a pre-scripted contact does not establish endogenous Tissue development. Report exact native ownership and independent admission, not an analogy to agent collaboration.
+3. **Memory register substitution.** A counter, checkpoint or record is not the accepted Morphic Memory mechanism unless acquired *operative morphology itself* causes the later distinction.
+4. **Digital executor mistaken for organism decision.** A bounded external actor that applies a uniquely available native result is an authority boundary, not proof that the organism can select among simultaneous alternatives.
+5. **Digital feedback mistaken for physical closure.** Digital world measurements are not attested field sensors or independently qualified physical actuator effects.
+6. **Resource readiness inferred from compilation.** Passing source tests, strict linting and `no_std` checks do not establish target-MCU peak RAM/stack/WCET, energy or operational qualification.
 
-**Continue bounded research; do not productize or assert a new general AI paradigm on current evidence.** The most consequential accepted improvement since the earlier public snapshot is the source-integrated **prospective causal role of acquired shared morphology**, alongside evidence that locally generated unmet need alone need not induce new topology. The decisive open problem is useful **joint** endogenous function and history-conditioned reconfiguration on the same native Tissue, with fair conventional controls and an independently observed outcome.
+## Smallest justified next gate — not executed by this package
 
-For external reviewers, the proper finding may remain **EVIDENCE_INSUFFICIENT** because original sources and raw records are not disclosed. No transfer, license, investment or product-readiness decision follows automatically from this public report.
+Preserve the established functional Tissue result and its negative controls. The immediate source/formal question is whether a **minimal independently living physiological Print** can be constituted without replacing homeostasis or morphogenesis with host-provided flags and partner choices. Reuse the larger source as a regression and equivalence donor, not a compulsory production architecture.
 
-[Claims register](../evidence/CLAIMS_REGISTER.csv) · [Mathematical review](08_MATHEMATICAL_REVIEW_CHECKLIST.md) · [Review challenges](12_REVIEWER_CHALLENGES.md) · [Research overview](01_EXECUTIVE_OVERVIEW.md)
+The distinct later scientific objective remains a causal chain from lived observations and acquired morphology through an **organism-owned phenotype** to a **bounded endogenous typed decision**, with independently established useful consequences and a fair conventional baseline. Mere repeated arithmetic, additional bond counts or a draft Organ design would not advance that objective.
+
+**Qualification:** current Tissue function and causal memory reuse — **PASS_SCOPED** at their stated source/digital limits; new minimal Print substrate and organism decision chain — **NOT_ESTABLISHED**. An external reviewer without protected artifacts may correctly issue **EVIDENCE_INSUFFICIENT** for independent verification.
+
+## Commercial and disclosure boundary
+
+Morphic AI is a **distinct scientific track**, not an already qualified replacement for onboard navigation, a general AI product or a demonstrated integration with TMC or Guardian Veil. Commercial product selection remains open. No private repository identity, exact source pin, experiment filename, algorithmic parameter, raw trace, proof object or implementation access is disclosed here.
+
+[Public claims register](../evidence/CLAIMS_REGISTER.csv) · [LMA formal scope](02_LMA_FORMAL_SCOPE.md) · [Mathematical review](08_MATHEMATICAL_REVIEW_CHECKLIST.md) · [Evidence standards](10_EVIDENCE_STANDARDS.md) · [Disclosure boundary](07_DISCLOSURE_BOUNDARY.md)
