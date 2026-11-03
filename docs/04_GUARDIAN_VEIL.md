@@ -7,7 +7,7 @@ The original program studied heterogeneous autonomous nodes, local sensing, spat
 - 5- and 12-node digital reference configurations under selected local interactions and disruptions;
 - bounded digital Full Stack composition through 128 nodes, **not** physical scale qualification;
 - effects of node heterogeneity, placement and local protective spatial configurations;
-- documented negative cases and comparisons that prevent general superiority or robustness claims.
+- bounded comparative controls and scenario-specific qualification limits.
 
 These are simulation results. They do not establish practical physical protection, reliable response to named threats, or an arbitrary decentralized hardware network.
 
@@ -15,11 +15,17 @@ These are simulation results. They do not establish practical physical protectio
 
 This subsequent, distinct program studies organism-owned needs, physiological peer expression, local observation admission, independently authorized actions and higher-order composition (HOLT/HOLO).
 
-The frozen digital line contains scoped evidence for relational protective behavior, resilience, functional recruitment and limited higher-order composition.
+The frozen digital line contains scoped evidence for relational protective behavior, resilience, functional recruitment, local peer recognition and limited higher-order composition.
 
 One particularly relevant two-organism experiment established a **bounded causal closure with physiological LMIO as the peer semantic channel**: the receiving organism used its own admitted observation and usable capability, while the initiating organism inferred the functional result from changes in the modeled physical world observed locally. The tested peer path required neither target coordinates, a remote role assignment nor a return packet reporting success. Controls suppressed necessary links and changed the frozen result.
 
 **This is a claim about a particular peer channel and a particular simulated causal loop.** Local observations still derive from a modeled world; it is not evidence that no system layer uses coordinates, that no raw data ever exists, or that a general meeting-point calculation has been proved.
+
+### B.1 Local recognition and kinship-derived membership
+
+Separate **digital** Guardian Veil research established bounded, source-executed evidence for print-bound recognition of a current peer through the LMIO-facing local carrier. A different kinship study qualified local differentiation between lineage relationship and **current** membership, including acquired Tissue assimilation under its stated digital controls. These results are more specific than an untested identity concept and retain their own provenance.
+
+**Qualification:** these are limited digital recognition and membership results. Neither experiment establishes cryptographic anti-spoofing guarantees or physical identity attestation. The related LMCO research is a conceptual and contractual donor, not an independently validated physical identity system. [Current public claims](../evidence/CLAIMS_REGISTER.csv).
 
 ## C. The meeting / rendezvous question
 
