@@ -25,9 +25,9 @@ This document defines how to read the **public index**; it does not modify the c
 4. **Hypothesis:** open causal, engineering or commercial question.
 5. **Not established:** unsupported for the referenced claim or environment.
 
-The [3 November Morphic AI screen](13_MORPHIC_AI_REVIEW.md) distinguishes earlier acquired shared-morphology interventions from later **scoped jointly acquired Tissue function**, retained morphology across changed same-family tasks and bounded digital-world feedback. Initial memory/split protocols **failed** their stated criteria; separately preregistered corrections support narrower outcomes. Conventional structural FSM parity remains preserved. A minimal viable physiological Print and full organism decision are not qualified. Passing test counts alone are not statistical validation of accuracy or reliability.
+The [3 November Morphic AI screen](13_MORPHIC_AI_REVIEW.md) summarizes accepted **scoped jointly acquired Tissue function**, retained operative morphology on changed same-family tasks and bounded digital-world feedback. Results remain limited to their stated digital evidence scope. Passing test counts alone are not statistical validation of reliability or performance.
 
-Negative and inconclusive results remain part of the restricted scientific record, even where the public summary focuses on the practical research program.
+The public package is a curated selection of qualified findings; full experimental chronology, underlying evidence and internal research records remain under the rights holder's custody.
 
 ## Reviewer output
 
