@@ -4,6 +4,7 @@ This repository provides **public claims and their qualification limits only**. 
 
 - [Public claims register](CLAIMS_REGISTER.csv) — a bounded description of what is reported and what remains unverified externally.
 - [Morphic AI acquired functional Tissue and intrinsic memory](../docs/13_MORPHIC_AI_REVIEW.md) — selected qualified native joint-function, causal morphology reuse and digital-feedback evidence, with exact application boundaries.
+- [Embedded recovery and digital local recognition](../docs/01_EXECUTIVE_OVERVIEW.md) — scoped DRC LKG/recovery MCU evidence and Guardian Veil peer/kinship recognition, distinguished by platform and qualification scope.
 - [Focused mechanism screen](../docs/11_FOCUSED_AUTONOMY_REVIEW.md) — qualified statements for distributed autonomy, low-information communication/meeting and terminal mission conduct.
 - [Challenge cards](../docs/12_REVIEWER_CHALLENGES.md) — non-sensitive adversarial review prompts.
 - [Evidence interpretation](../docs/10_EVIDENCE_STANDARDS.md) — how to interpret the public status labels.
