@@ -11,7 +11,7 @@ Lomidze Morphological Algebra (LMA) is an ongoing formal and experimental progra
 | Track | Research/engineering question | Current evidence tier |
 |---|---|---|
 | **LMA** | Can typed composition and morphic structure be made into explicit formal semantics? | Finite-model theorems; broader algebra not fully proven |
-| **Morphic AI** | Can independent locally homeostatic Prints acquire shared operative morphology and use its retained history for later native function? | Three-owner native software engineering; stage-sensitive shared-structure causal intervention; joint organism decision remains unqualified |
+| **Morphic AI** | Can independent locally homeostatic Prints acquire shared operative morphology and use its retained history for later native function? | Scoped native acquired Tissue joint-function and same-family causal memory reuse; bounded digital-world feedback; organism decision remains unqualified |
 | **TMC** | Can bounded mission-conduct continuations depend on coupled structural and acquired-history components? | Scoped software science + MCU demonstrations; further validation required |
 | **Morphic Vision** | Can a local perception channel be admitted and reproduced without covert global control? | Abstract/simulation-level tests only in referenced report |
 | **Guardian Veil (original)** | Can heterogeneous autonomous nodes form protective spatial patterns via local interaction? | Digital-twin and bounded multinode simulation evidence |
@@ -19,9 +19,9 @@ Lomidze Morphological Algebra (LMA) is an ongoing formal and experimental progra
 | **DRC/SRC** | Can a small independent boundary reject invalid commands and preserve bounded recovery? | Hardware-backed command-gate results |
 | **Morphic Market / LMCO** | Temporal structure and organism-based cryptographic hypotheses | Separate research lines; no ready-made commercial products |
 
-## Scientific update: acquired morphology is intrinsic memory
+## Scientific update: acquired Tissue function and intrinsic Morphic Memory
 
-The active Morphic AI program treats **Morphic Memory as acquired, causally operative morphology**, rather than a separate RAM service or a post-hoc data store. By 30 October, accepted integrated source evidence covers continuous three-Print development, acquired local functional retention, and a **scoped prospective causal effect of an acquired shared constituent** on later native functional acquisition. A changed task also triggered native unmet need but **not** further useful reconfiguration in the tested configuration. An ordinary typed-graph/FSM comparator matched tested structural contact histories on a finite benchmark. The useful joint task, endogenous future restructuring and physical return loop remain unproved. See [focused Morphic AI review](13_MORPHIC_AI_REVIEW.md).
+Morphic Memory remains **acquired, causally operative morphology**, not a separate cache or post-hoc data store. After earlier native development and selective shared-structure interventions, source-integrated experiments through **3 November** now report a bounded **joint functional Tissue** whose useful native first-step result is absent from independently operating Prints and matched passive split copies. The same earned shared morphology retains causal utility across several changed tasks in one predeclared family; an independent digital executor applies a unique output and the originating Print subsequently regulates from its own world observations. Original protocols with erroneous timing and split-copy continuation assumptions failed, and only separately frozen corrected replications qualify the narrower positive findings. A prior conventional typed-graph/FSM baseline matched tested structural contact histories. General organism-level decisions, real physical feedback, unrestricted adaptation and superiority over a fully connected conventional control remain open. See [Morphic AI review](13_MORPHIC_AI_REVIEW.md).
 
 ## Current external technical discussion
 
