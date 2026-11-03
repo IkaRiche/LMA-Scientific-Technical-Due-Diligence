@@ -10,7 +10,6 @@ This document defines how to read the **public index**; it does not modify the c
 | Scoped native-source engineering | A specified code path and regression suite executed under a tested configuration | A new scientific mechanism, full task success or a physical platform |
 | Prospective causal ablation | A frozen source-controlled intervention changes a later specified output | General mathematical irreducibility or autonomous field competence |
 | Baseline parity | A fair comparator matched an explicitly identified observable and domain | Both architectures are identical for all questions or share equal cost |
-| Research draft / unmerged branch | Source, proposals or tests may be available for scrutiny | Automatic promotion to canonical mainline scientific evidence |
 | Hardware observation | A specific MCU-based experiment was executed or documented | Flight qualification, reliable production deployment or certified safety |
 | Digital-twin result | A result within the stated simulation model and scenarios | Verified physical effectiveness |
 | Candidate integration | An interface or combined product worthy of investigation | Successful end-to-end integration |
