@@ -9,9 +9,9 @@ This repository is a public **index of claims, provenance and review conditions*
 | Investment / industrial | ~15 min | [Industrial mission continuity](14_INDUSTRIAL_MISSION_CONTINUITY.md) → [Program overview](01_EXECUTIVE_OVERVIEW.md) → [Opportunity selection](06_PRODUCT_SELECTION.md) | Evaluate GNSS/link-loss mission-conduct opportunity without confusing TMC with autopilot or navigation |
 | Evidence / IP | ~15 min | [Claims register](../evidence/CLAIMS_REGISTER.csv) → [Source pins](../evidence/INDEX.md) → [Disclosure boundary](07_DISCLOSURE_BOUNDARY.md) | Determine what is intentionally withheld |
 
-## Updated Morphic AI owner evidence — 30 October 2026
+## Morphic AI evidence update — 3 November 2026
 
-For acquired functional Print/Tissue morphology and its boundary, start with [Morphic AI technical review](13_MORPHIC_AI_REVIEW.md). Earlier sources should not be read as proof that tissue memory requires a separate storage service. The currently integrated source has acquired shared-constituent causal evidence but no qualified useful whole-organism decision, joint task or embedded resource envelope. Unmerged research branches and an initially invalid negative control remain explicitly provisional.
+The owner-integrated native source now reports **scoped acquired Tissue-level joint function**, retained morphological causality over changed same-family tasks, and digital world feedback through a Print's own admitted observations. The original memory and split-copy protocols failed; later *separately preregistered corrected* experiments support narrower positive results. This is an accepted limited Tissue-level advance, not a qualified full organism, generalized learning, hardware qualification or proven advantage over a fully informed conventional pipeline. The owner also prioritized minimal independently physiological Prints; that decision is **not an experiment**. Read [Morphic AI scientific review](13_MORPHIC_AI_REVIEW.md) and [claims register](../evidence/CLAIMS_REGISTER.csv).
 
 ## Focused engineering review — November 2026
 
