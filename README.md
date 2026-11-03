@@ -54,17 +54,19 @@ These are **reported results within specified experiments**, not an end-to-end p
 <td width="50%" valign="top">
 <a href="docs/04_GUARDIAN_VEIL.md"><img src="assets/tech-guardian-veil.svg" alt="Guardian Veil — conceptual distributed research artwork" width="100%"></a>
 <p><strong><a href="docs/04_GUARDIAN_VEIL.md">Guardian Veil · Distributed research</a></strong></p>
-<p>Local functional cooperation and bounded peer expression. <strong>Two separate digital research lines; no field qualification.</strong></p>
+<p>Digital local peer recognition, kinship-derived membership and bounded organism cooperation. <strong>Scoped research results; no physical identity qualification.</strong></p>
 </td>
 <td width="50%" valign="top">
 <a href="docs/01_EXECUTIVE_OVERVIEW.md"><img src="assets/tech-drc-src.svg" alt="DRC/SRC — conceptual embedded assurance artwork" width="100%"></a>
 <p><strong><a href="docs/01_EXECUTIVE_OVERVIEW.md">DRC / SRC · Embedded assurance</a></strong></p>
-<p>Independent command-boundary assurance and bounded recovery. <strong>MCU experiments; no system-level safety certification.</strong></p>
+<p>Independent command assurance, Last-Known-Good state history and guarded recovery. <strong>STM32F411/H743 bench results; no system-level certification.</strong></p>
 </td>
 </tr>
 </table>
 
 *The illustrations are conceptual branding, not implementation diagrams or field-operation screenshots. These research lines have separate evidence owners and must not be presented as a validated integrated product.*
+
+**Additional accepted components:** DRC has hardware-tested Last-Known-Good (LKG) decision and guarded recovery mechanisms; Guardian Veil has bounded digital evidence for current-peer recognition and kinship-derived local membership. These are separately qualified research assets, not a preassembled product. [Scope and evidence](docs/01_EXECUTIVE_OVERVIEW.md) · [Claims register](evidence/CLAIMS_REGISTER.csv).
 
 **New Morphic AI evidence (3 November):** bounded acquired Tissue-level *joint function*, causally retained morphology on changed tasks, and independent digital-world feedback have now been source-tested. These are distinct from TMC and do not establish general intelligence or field deployment. [Review the scientific limits](docs/13_MORPHIC_AI_REVIEW.md).
 
