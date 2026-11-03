@@ -25,7 +25,7 @@ This document defines how to read the **public index**; it does not modify the c
 4. **Hypothesis:** open causal, engineering or commercial question.
 5. **Not established:** unsupported for the referenced claim or environment.
 
-The [30 October Morphic AI screen](13_MORPHIC_AI_REVIEW.md) separates accepted shared-morphology causal intervention, task-level non-qualification, a finite typed-graph/FSM parity baseline, pending donor work, and an originally invalid negative control. Passing test counts alone are not statistical validation of accuracy or reliability.
+The [3 November Morphic AI screen](13_MORPHIC_AI_REVIEW.md) distinguishes earlier acquired shared-morphology interventions from later **scoped jointly acquired Tissue function**, retained morphology across changed same-family tasks and bounded digital-world feedback. Initial memory/split protocols **failed** their stated criteria; separately preregistered corrections support narrower outcomes. Conventional structural FSM parity remains preserved. A minimal viable physiological Print and full organism decision are not qualified. Passing test counts alone are not statistical validation of accuracy or reliability.
 
 Negative and inconclusive results remain part of the restricted scientific record, even where the public summary focuses on the practical research program.
 
