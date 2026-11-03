@@ -16,7 +16,7 @@ This agenda replaces the earlier general product tour. Morphic Vision remains re
 
 ## Separate Morphic AI scientific question
 
-Morphic AI's intrinsic acquired-morphology memory and Print/Tissue developmental claim should be reviewed through [the dedicated 30 October mechanism screen](13_MORPHIC_AI_REVIEW.md), not merged into this **three-question** TMC/Guardian review session. The relevant counterclaim is an equal-information conventional finite-state/typed-graph explanation and/or scripted selection, not the existence of another TMC command gate. A physiological need without a later qualified functional world result is not task completion. Only the separately scoped shared-constituent causal result may be discussed as accepted research evidence; full adaptive organism function remains open.
+Morphic AI has a separate [3 November scientific screen](13_MORPHIC_AI_REVIEW.md); it is **not** evidence for a combined TMC/Guardian platform. New accepted scoped source results cover acquired **jointly functional Tissue**, causal reuse of its operative morphology under changed same-family tasks, and bounded digital world feedback with a Print's own observation. Original memory/split-copy protocols failed and corrected prospective replications carry narrower positive verdicts. A conventional fully connected typed pipeline remains an important alternative. Minimal independent Print viability, full organism phenotype and endogenous typed decision remain unestablished; a positive Tissue experiment must not be called full Morphic AI.
 
 ## Review procedure
 
