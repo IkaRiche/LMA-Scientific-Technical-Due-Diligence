@@ -15,9 +15,15 @@ Lomidze Morphological Algebra (LMA) is an ongoing formal and experimental progra
 | **TMC** | Can bounded mission-conduct continuations depend on coupled structural and acquired-history components? | Scoped software science + MCU demonstrations; further validation required |
 | **Morphic Vision** | Can a local perception channel be admitted and reproduced without covert global control? | Abstract/simulation-level tests only in referenced report |
 | **Guardian Veil (original)** | Can heterogeneous autonomous nodes form protective spatial patterns via local interaction? | Digital-twin and bounded multinode simulation evidence |
-| **Guardian Veil (relational)** | Can organism-owned needs and LMIO-like peer expression drive limited functional composition? | Scoped digital causal and higher-order evidence |
-| **DRC/SRC** | Can a small independent boundary reject invalid commands and preserve bounded recovery? | Hardware-backed command-gate results |
-| **Morphic Market / LMCO** | Temporal structure and organism-based cryptographic hypotheses | Separate research lines; no ready-made commercial products |
+| **Guardian Veil (relational)** | Can organism-owned needs and LMIO-like peer expression drive limited functional composition and local recognition? | Scoped digital peer recognition, kinship-derived local membership, functional cooperation and higher-order evidence |
+| **DRC/SRC** | Can a small independent boundary reject invalid commands and preserve bounded recovery? | Hardware-backed command gate; STM32F411 LKG decision bench and STM32H743 guarded-recovery bench |
+| **Morphic Market / LMCO** | Temporal structure and organism-based cryptographic hypotheses | Separate research and partial accepted canonical contracts; no cryptographic identity product claim |
+
+## Hardware and local-interaction evidence across the portfolio
+
+**DRC embedded recovery:** bounded Last-Known-Good (LKG) decisions using recorded states were executed on a physical STM32F411 bench, and guarded recovery-exit transitions on a physical STM32H743 bench. These are measured MCU mechanisms, not only proposed fallback concepts; they do not themselves validate physical movement or independent localization.
+
+**Guardian Veil local recognition:** source-native digital experiments established print-bound current-peer recognition and, in a separate scoped kinship study, locally derived current membership and Tissue assimilation. These results address *digital organism identity and membership within their experimental context*; they do not constitute field-tested physical or cryptographic identification. LMCO is a related historical research donor with separate, currently partial canonical standing — not a substitute for those executed Veil experiments.
 
 ## Scientific update: acquired Tissue function and intrinsic Morphic Memory
 
