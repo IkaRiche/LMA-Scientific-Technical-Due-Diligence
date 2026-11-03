@@ -42,6 +42,11 @@ assert by_id["CIV-01"]["status"] == "PASS_PROTOCOL_REVIEW_ONLY"
 assert by_id["MAI-03"]["status"] == "PASS_SCOPED", "Shared morphology result must remain scoped"
 assert by_id["MAI-09"]["status"] == "ONTOLOGY_CONTRACT", "Ontology is not an independent empirical proof"
 assert by_id["MAI-11"]["status"] == "PASS_SCOPED", "Digital-world evidence must remain bounded"
+for claim_id in ("DRC-02", "DRC-03"):
+    assert by_id[claim_id]["status"] == "OBSERVED_IN_SCOPE", f"MCU recovery finding must retain bench scope: {claim_id}"
+for claim_id in ("GV2-07", "GV2-08"):
+    assert by_id[claim_id]["status"] == "PASS_SCOPED", f"Local digital recognition must not be promoted to physical authentication: {claim_id}"
+assert by_id["LMCO-01"]["status"] == "CONTRACT_PARTIAL", "LMCO canonical contract is not a product qualification"
 for claim_id in ("MAI-12", "MAI-13"):
     assert by_id[claim_id]["status"] == "PASS_REPLICATION_SCOPED", f"Accepted qualified evidence must remain scoped: {claim_id}"
 
