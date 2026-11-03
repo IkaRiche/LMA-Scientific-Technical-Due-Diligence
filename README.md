@@ -47,7 +47,7 @@ These are **reported results within specified experiments**, not an end-to-end p
 <td width="50%" valign="top">
 <a href="docs/13_MORPHIC_AI_REVIEW.md"><img src="assets/tech-morphic-ai.svg" alt="Morphic AI — abstract, noncanonical research illustration" width="100%"></a>
 <p><strong><a href="docs/13_MORPHIC_AI_REVIEW.md">Morphic AI · Native morphology</a></strong></p>
-<p>Native Prints and acquired, causally operative shared morphology. <strong>Scoped digital research, not a qualified general organism.</strong></p>
+<p>Acquired functional Tissue, causal morphological memory and useful digital-world feedback. <strong>New scoped native results; no qualified full organism.</strong></p>
 </td>
 </tr>
 <tr>
@@ -65,6 +65,8 @@ These are **reported results within specified experiments**, not an end-to-end p
 </table>
 
 *The illustrations are conceptual branding, not implementation diagrams or field-operation screenshots. These research lines have separate evidence owners and must not be presented as a validated integrated product.*
+
+**New Morphic AI evidence (3 November):** bounded acquired Tissue-level *joint function*, causally retained morphology on changed tasks, and independent digital-world feedback have now been source-tested. These are distinct from TMC and do not establish general intelligence or field deployment. [Review the scientific limits](docs/13_MORPHIC_AI_REVIEW.md).
 
 ## For the technical review
 
@@ -87,4 +89,4 @@ These are **reported results within specified experiments**, not an end-to-end p
 
 ---
 
-**Research evidence cutoff:** 30 October 2026 · **Presentation update:** 2 November 2026 · **Purpose:** preliminary scientific and technical evaluation.
+**Research evidence cutoff:** 3 November 2026 · **Presentation update:** 3 November 2026 · **Purpose:** preliminary scientific and technical evaluation.
